@@ -1,0 +1,509 @@
+patient_id	age	sex	cholesterol	blood_pressure	heart_rate	diabetes	family_history	smoking	obesity	alcohol_consumption	exercise_hours_per_week	diet	previous_heart_problems	medication_use	stress_level	sedentary_hours_per_day	income	bmi	triglycerides	physical_activity_days_per_week	sleep_hours_per_day	country	continent	hemisphere	heart_attack_risk
+BMW7812	67	Male	208	158/88	72	0	0	1	0	0	4.17	Average	0	0	9	6.62	261404	31.25	286	0	6.00	Argentina	South America	Southern Hemisphere	0
+CZE1114	21	Male	389	165/93	98	1	1	1	1	1	1.81	Unhealthy	1	0	1	4.96	285768	27.19	235	1	7.00	Canada	North America	Northern Hemisphere	0
+BNI9906	21	Female	324	174/99	72	1	0	0	0	0	2.08	Healthy	1	1	9	9.46	235282	28.18	587	4	4.00	France	Europe	Northern Hemisphere	0
+JLN3497	84	Male	383	163/100	73	1	1	1	0	1	9.83	Average	1	0	9	7.65	125640	36.46	378	3	4.00	Canada	North America	Northern Hemisphere	0
+GFO8847	66	Male	318	91/88	93	1	1	1	1	0	5.80	Unhealthy	1	0	6	1.51	160555	21.81	231	1	5.00	Thailand	Asia	Northern Hemisphere	0
+ZOO7941	54	Female	297	172/86	48	1	1	1	0	1	0.63	Unhealthy	1	1	2	7.80	241339	20.15	795	5	10.00	Germany	Europe	Northern Hemisphere	1
+WYV0966	90	Male	358	102/73	84	0	0	1	0	1	4.10	Healthy	0	0	7	0.63	190450	28.89	284	4	10.00	Canada	North America	Northern Hemisphere	1
+XXM0972	84	Male	220	131/68	107	0	0	1	1	1	3.43	Average	0	1	4	10.54	122093	22.22	370	6	7.00	Japan	Asia	Northern Hemisphere	1
+XCQ5937	20	Male	145	144/105	68	1	0	1	1	0	16.87	Average	0	0	5	11.35	25086	35.81	790	7	4.00	Brazil	South America	Southern Hemisphere	0
+FTJ5456	43	Female	248	160/70	55	0	1	1	1	1	0.19	Unhealthy	0	0	4	4.06	209703	22.56	232	7	7.00	Japan	Asia	Northern Hemisphere	0
+HSD6283	73	Female	373	107/69	97	1	1	1	0	1	16.84	Average	1	1	8	8.92	50030	22.87	469	0	4.00	South Africa	Africa	Southern Hemisphere	0
+YSP0073	71	Male	374	158/71	70	1	1	1	1	1	8.25	Average	0	0	4	7.23	163066	32.49	523	4	8.00	United States	North America	Northern Hemisphere	0
+FPS0415	77	Male	228	101/72	68	1	1	1	1	1	19.63	Unhealthy	0	0	9	10.92	29886	35.10	590	7	6.00	Vietnam	Asia	Northern Hemisphere	1
+YYU9565	60	Male	259	169/72	85	1	1	1	0	1	17.04	Healthy	1	1	1	8.73	292173	25.56	506	1	4.00	China	Asia	Northern Hemisphere	1
+VTW9069	88	Male	297	112/81	102	1	1	1	0	1	15.39	Unhealthy	0	1	2	10.43	165300	25.49	635	3	6.00	China	Asia	Northern Hemisphere	0
+DCY3282	73	Male	122	114/88	97	1	1	1	0	1	14.56	Average	0	0	5	10.09	265839	36.52	773	5	8.00	Italy	Europe	Southern Hemisphere	1
+DXB2434	69	Male	379	173/75	40	1	1	1	1	1	4.18	Average	1	0	5	9.06	267997	28.33	68	3	6.00	Brazil	South America	Southern Hemisphere	0
+COP0566	38	Male	166	120/74	56	1	0	1	1	0	8.92	Healthy	0	1	9	3.66	48376	29.52	402	0	6.00	Thailand	Asia	Northern Hemisphere	0
+XBI0592	50	Female	303	120/100	104	1	0	1	0	1	4.94	Average	1	1	1	7.59	21501	25.96	517	1	5.00	United States	North America	Northern Hemisphere	1
+RQX1211	60	Male	145	160/98	71	1	0	1	0	1	1.89	Healthy	1	0	8	5.99	234966	29.16	247	7	7.00	Canada	North America	Northern Hemisphere	0
+MBI0008	66	Male	340	180/101	69	1	0	1	1	0	9.11	Unhealthy	1	1	1	6.22	156946	38.09	747	1	10.00	Canada	North America	Northern Hemisphere	0
+RVN4963	45	Male	294	130/84	66	0	0	1	1	1	13.69	Healthy	0	0	9	7.01	216565	25.12	360	4	6.00	France	Europe	Northern Hemisphere	1
+LBY7992	50	Male	359	175/60	97	0	1	1	0	1	8.35	Healthy	1	0	2	4.05	278301	34.65	358	4	8.00	Spain	Europe	Southern Hemisphere	0
+RDI3071	84	Male	202	173/109	81	1	1	1	0	1	11.00	Unhealthy	1	0	7	7.12	95237	29.63	526	0	9.00	Brazil	South America	Southern Hemisphere	0
+NCU1956	36	Male	133	161/90	97	1	0	1	1	1	3.62	Healthy	1	0	10	10.96	223132	22.39	605	5	10.00	Canada	North America	Northern Hemisphere	0
+MSW4208	90	Male	159	140/95	52	0	0	1	0	1	10.71	Healthy	0	1	2	1.22	110213	26.07	667	4	5.00	Spain	Europe	Southern Hemisphere	0
+TTO9115	48	Male	271	148/105	105	0	1	1	0	1	13.59	Unhealthy	1	0	4	8.48	139560	21.58	316	3	8.00	Thailand	Asia	Northern Hemisphere	0
+JDP9221	40	Male	273	160/76	96	0	0	1	1	1	17.63	Average	1	1	4	4.55	178241	26.42	551	4	6.00	France	Europe	Northern Hemisphere	0
+FFF6730	79	Female	328	113/78	74	0	0	1	0	1	16.90	Unhealthy	0	0	1	5.21	98663	31.63	482	4	6.00	China	Asia	Northern Hemisphere	0
+DWN2141	63	Male	154	99/81	102	1	0	1	1	0	7.95	Unhealthy	1	1	1	7.27	247960	39.27	718	4	10.00	India	Asia	Northern Hemisphere	0
+SLE3369	27	Female	135	120/77	49	1	1	0	0	1	16.91	Healthy	0	0	6	9.12	71276	22.78	297	1	10.00	Argentina	South America	Southern Hemisphere	1
+NXO4034	25	Male	197	178/72	45	0	1	1	0	1	18.85	Unhealthy	1	1	1	1.42	59634	18.52	661	0	6.00	Spain	Europe	Southern Hemisphere	0
+ENK3334	27	Male	321	111/91	50	1	0	1	1	0	0.76	Unhealthy	1	1	2	3.38	53345	34.20	558	7	8.00	Nigeria	Africa	Northern Hemisphere	1
+XRL5497	86	Male	375	99/85	46	1	1	1	0	0	3.47	Healthy	0	1	3	1.87	163789	18.79	209	6	10.00	France	Europe	Northern Hemisphere	0
+DDG3686	42	Male	360	103/107	44	1	0	1	1	1	8.50	Healthy	0	0	5	9.58	94144	29.70	586	1	4.00	India	Asia	Northern Hemisphere	1
+FLG2019	52	Female	360	94/60	106	1	0	1	1	0	11.31	Unhealthy	0	0	3	7.70	135099	27.10	743	4	5.00	New Zealand	Australia	Southern Hemisphere	1
+IUJ5442	27	Female	263	127/109	83	0	1	0	0	0	2.10	Unhealthy	0	0	2	9.36	264135	39.84	411	2	9.00	Argentina	South America	Southern Hemisphere	0
+BSV5917	29	Female	201	134/60	86	0	0	0	1	1	3.97	Average	1	0	6	10.97	138186	33.79	785	0	10.00	Argentina	South America	Southern Hemisphere	0
+SCZ5893	67	Male	347	115/92	65	1	0	1	1	1	13.87	Healthy	1	0	1	1.25	37324	38.72	790	1	10.00	India	Asia	Northern Hemisphere	0
+GNK9443	29	Male	129	124/93	86	0	1	1	1	1	12.11	Unhealthy	1	1	3	3.64	123956	32.17	697	4	6.00	Canada	North America	Northern Hemisphere	0
+UYU5044	30	Female	135	104/96	101	0	0	0	0	1	5.73	Unhealthy	1	1	8	9.75	139504	27.47	519	1	5.00	New Zealand	Australia	Southern Hemisphere	0
+TTM1692	47	Male	229	144/108	65	1	0	1	1	0	5.37	Healthy	1	0	6	4.61	278913	35.25	595	0	7.00	India	Asia	Northern Hemisphere	1
+DUX2118	86	Female	251	101/90	96	0	1	1	0	1	7.49	Unhealthy	1	1	3	11.04	202033	21.81	452	5	4.00	Canada	North America	Northern Hemisphere	1
+SQE3213	44	Male	121	115/109	51	1	0	1	1	1	16.66	Healthy	0	0	7	5.26	59122	27.09	158	4	10.00	United States	North America	Northern Hemisphere	1
+XBP3543	50	Male	190	149/73	43	1	1	1	0	0	0.62	Unhealthy	0	0	5	0.87	119607	25.77	679	7	9.00	France	Europe	Northern Hemisphere	0
+ENZ9640	33	Male	185	120/63	79	0	1	1	1	0	16.16	Healthy	0	1	7	11.08	239725	37.21	675	6	4.00	Italy	Europe	Southern Hemisphere	1
+QWD3129	51	Male	197	106/106	79	1	1	1	1	0	14.12	Unhealthy	0	0	3	1.54	257061	24.67	785	1	5.00	Argentina	South America	Southern Hemisphere	0
+UBJ2564	70	Female	279	102/76	86	0	0	1	1	1	2.59	Healthy	1	1	6	1.09	191558	29.97	792	4	6.00	Japan	Asia	Northern Hemisphere	1
+RRG8947	85	Male	336	114/92	73	1	1	1	0	1	17.75	Average	0	1	1	10.38	204162	25.58	584	7	10.00	South Korea	Asia	Northern Hemisphere	0
+DRT6328	31	Female	192	124/93	90	1	0	0	0	1	3.60	Unhealthy	1	0	1	10.38	30816	30.15	366	5	10.00	Vietnam	Asia	Northern Hemisphere	1
+BFE4900	56	Male	180	173/108	94	1	1	1	1	1	7.27	Unhealthy	1	0	7	5.86	295082	18.29	741	6	7.00	New Zealand	Australia	Southern Hemisphere	0
+KCY9500	36	Male	203	173/109	101	1	1	1	0	0	14.21	Average	1	0	8	10.86	102220	28.01	523	2	6.00	Germany	Europe	Northern Hemisphere	1
+JJX0859	70	Male	368	168/91	78	0	0	1	0	0	2.16	Healthy	1	1	10	11.64	225432	29.76	474	5	10.00	Italy	Europe	Southern Hemisphere	0
+IKY4481	67	Male	222	159/79	105	1	1	1	1	0	0.52	Average	1	1	1	0.86	286299	37.26	92	0	8.00	Australia	Australia	Southern Hemisphere	0
+YOD3294	31	Male	243	100/80	92	1	1	1	1	1	2.40	Unhealthy	0	1	2	7.25	269959	30.99	410	7	9.00	United States	North America	Northern Hemisphere	0
+OHD3889	24	Male	218	118/76	68	0	1	1	1	1	6.32	Average	0	1	10	10.90	226086	27.18	398	3	8.00	Australia	Australia	Southern Hemisphere	0
+BDG2694	54	Female	120	103/83	54	1	1	1	0	0	15.04	Unhealthy	1	0	8	9.77	50984	18.78	493	0	5.00	China	Asia	Northern Hemisphere	1
+LTU0801	70	Female	279	152/90	52	1	1	1	1	1	9.66	Average	0	1	3	0.41	242491	39.00	614	3	10.00	Vietnam	Asia	Northern Hemisphere	0
+OFU9592	74	Male	285	151/85	109	1	1	1	0	1	5.58	Unhealthy	0	1	1	10.87	35855	39.78	682	6	10.00	Nigeria	Africa	Northern Hemisphere	0
+WAR7163	72	Male	377	144/98	61	1	1	1	1	0	17.44	Unhealthy	1	1	9	3.48	249614	28.51	106	1	10.00	Japan	Asia	Northern Hemisphere	1
+TFH5628	55	Male	369	109/95	64	1	0	1	0	0	1.40	Unhealthy	1	0	3	4.64	75517	23.40	216	5	10.00	Argentina	South America	Southern Hemisphere	0
+BBJ3290	42	Male	311	92/61	82	1	0	1	0	1	1.77	Average	0	0	8	4.62	133766	32.16	408	1	7.00	South Korea	Asia	Northern Hemisphere	0
+YTR1728	90	Female	139	179/93	85	0	1	1	1	1	1.71	Average	1	0	6	6.26	73167	28.28	628	7	9.00	South Africa	Africa	Southern Hemisphere	0
+AYY8711	26	Male	266	120/69	46	1	0	1	0	1	18.19	Unhealthy	0	0	3	5.63	57948	32.33	481	7	5.00	Germany	Europe	Northern Hemisphere	1
+TQT8266	53	Male	133	161/108	110	1	1	1	1	0	4.87	Average	1	0	8	2.09	182477	27.68	67	4	9.00	Canada	North America	Northern Hemisphere	0
+KTR4778	63	Male	153	131/76	86	1	1	1	1	1	18.60	Average	0	0	4	11.66	262933	19.68	82	0	4.00	Brazil	South America	Southern Hemisphere	1
+GVI1884	46	Male	120	107/65	50	1	0	1	1	1	4.95	Average	0	0	6	6.57	193855	36.49	305	1	10.00	Australia	Australia	Southern Hemisphere	1
+SOM8522	57	Female	220	132/109	94	1	1	1	0	0	13.66	Average	1	1	4	11.12	250419	37.81	164	2	5.00	China	Asia	Northern Hemisphere	0
+NHX8643	31	Female	339	131/97	42	1	0	0	1	0	12.37	Healthy	0	0	5	6.76	187864	35.46	211	5	6.00	Brazil	South America	Southern Hemisphere	0
+BNF7145	74	Male	329	149/73	96	1	0	1	1	1	14.09	Unhealthy	1	0	1	1.73	258104	37.68	511	0	4.00	Germany	Europe	Northern Hemisphere	1
+BOK4939	63	Female	203	177/99	55	1	0	1	0	1	17.33	Unhealthy	0	1	2	8.30	52552	30.87	766	1	9.00	Canada	North America	Northern Hemisphere	1
+DNY3115	46	Male	333	130/94	63	1	1	1	0	0	18.11	Unhealthy	1	1	5	11.04	128868	23.91	547	5	10.00	Spain	Europe	Southern Hemisphere	0
+SOH9843	22	Male	398	174/93	82	1	1	1	0	0	18.42	Average	0	1	9	5.20	259754	39.41	327	3	6.00	Nigeria	Africa	Northern Hemisphere	1
+ICO9779	53	Female	124	110/105	93	0	0	1	0	0	1.02	Unhealthy	0	1	1	1.79	49893	34.12	367	7	10.00	Germany	Europe	Northern Hemisphere	0
+GDC1817	90	Male	183	116/98	69	1	0	1	0	0	19.71	Average	0	1	7	4.92	294623	22.16	681	2	8.00	Australia	Australia	Southern Hemisphere	1
+DHP4080	55	Male	163	139/107	63	0	0	1	1	0	11.48	Healthy	1	1	2	9.35	158030	26.61	131	0	7.00	Australia	Australia	Southern Hemisphere	1
+RWL3584	30	Female	362	164/76	41	0	1	0	0	0	9.02	Average	0	1	6	2.47	290740	35.04	42	3	5.00	South Korea	Asia	Northern Hemisphere	0
+JPD8131	73	Male	390	104/83	48	1	0	1	0	1	14.82	Healthy	0	1	2	8.93	254849	18.95	692	4	6.00	Brazil	South America	Southern Hemisphere	1
+GMI1141	67	Male	192	118/86	100	0	0	1	0	1	19.81	Healthy	1	0	4	9.51	252331	23.21	664	0	10.00	China	Asia	Northern Hemisphere	0
+QJA1796	35	Male	200	122/77	110	1	0	1	1	1	14.63	Unhealthy	0	0	6	7.16	214110	30.76	543	7	4.00	France	Europe	Northern Hemisphere	0
+WMP6003	45	Male	396	109/74	76	1	1	1	1	0	17.89	Unhealthy	1	1	3	8.96	266582	38.94	689	3	5.00	China	Asia	Northern Hemisphere	1
+ADG8069	39	Male	255	160/70	81	1	0	1	1	1	14.14	Unhealthy	1	0	9	10.37	105818	33.09	569	0	6.00	Japan	Asia	Northern Hemisphere	0
+RHR1854	53	Male	209	92/65	98	1	0	1	0	1	12.10	Average	0	0	2	2.32	213726	31.85	408	7	8.00	Australia	Australia	Southern Hemisphere	0
+GDY0435	90	Male	247	151/101	101	0	1	1	0	1	14.20	Average	1	0	5	1.95	290188	38.59	458	7	5.00	Colombia	South America	Northern Hemisphere	1
+CQM6221	69	Male	250	95/78	75	1	1	1	1	0	7.30	Average	0	1	8	9.95	57106	19.54	683	3	5.00	Nigeria	Africa	Northern Hemisphere	0
+JDS3385	30	Male	227	115/73	40	1	1	1	0	0	15.32	Average	1	1	6	2.74	169864	20.81	408	3	9.00	Colombia	South America	Northern Hemisphere	0
+HYS8827	38	Female	246	148/94	58	1	0	0	0	0	16.05	Unhealthy	0	0	4	2.80	124280	35.77	779	3	7.00	United Kingdom	Europe	Northern Hemisphere	0
+JXV3603	56	Female	223	100/66	68	1	0	1	0	0	19.62	Average	0	0	9	5.30	97153	33.04	136	2	4.00	South Korea	Asia	Northern Hemisphere	1
+OVT8107	63	Male	379	163/110	71	1	0	1	0	1	8.30	Average	1	0	7	9.15	297069	28.10	643	6	5.00	Australia	Australia	Southern Hemisphere	1
+UIW1798	80	Male	330	122/80	53	0	0	1	0	1	4.51	Unhealthy	0	0	10	9.77	160046	33.94	653	4	7.00	Nigeria	Africa	Northern Hemisphere	1
+XZD4751	60	Male	195	118/91	68	1	1	1	0	1	17.40	Average	1	1	9	11.31	199652	22.48	55	1	5.00	South Korea	Asia	Northern Hemisphere	1
+OKX6945	69	Female	222	110/104	60	1	0	1	1	1	2.06	Unhealthy	0	0	6	3.67	27654	19.14	275	7	8.00	Italy	Europe	Southern Hemisphere	0
+RKV2333	77	Female	194	149/83	77	1	0	1	0	1	0.73	Unhealthy	1	1	2	10.55	290100	38.91	314	6	6.00	Vietnam	Asia	Northern Hemisphere	0
+TLA1423	65	Female	178	134/100	48	0	1	1	0	0	0.84	Healthy	1	1	4	1.27	25919	21.33	760	3	5.00	Argentina	South America	Southern Hemisphere	0
+NCU4581	46	Female	155	116/85	105	1	0	1	0	1	18.42	Unhealthy	0	0	6	0.10	193248	37.53	404	3	5.00	Nigeria	Africa	Northern Hemisphere	0
+XOA9385	83	Male	240	165/79	69	1	0	1	1	1	0.95	Healthy	0	1	6	6.52	173171	18.09	587	1	8.00	New Zealand	Australia	Southern Hemisphere	0
+SLJ3300	27	Male	237	102/69	65	1	1	1	1	0	3.76	Unhealthy	1	0	10	11.44	96599	32.19	576	7	6.00	United Kingdom	Europe	Northern Hemisphere	0
+ONL5969	31	Female	333	168/107	106	1	0	0	0	0	15.73	Healthy	1	0	2	4.66	223499	18.32	690	7	4.00	Argentina	South America	Southern Hemisphere	0
+CFU1297	82	Male	216	160/67	109	1	1	1	1	1	15.58	Average	0	0	6	5.22	217539	20.81	648	1	5.00	New Zealand	Australia	Southern Hemisphere	0
+ATI9164	28	Male	276	92/71	65	1	0	1	1	1	13.12	Healthy	1	1	7	0.81	171302	34.56	385	1	5.00	South Korea	Asia	Northern Hemisphere	0
+HGB5652	90	Male	224	164/65	98	1	0	1	0	1	3.56	Average	1	0	10	9.62	154900	22.85	255	4	5.00	Italy	Europe	Southern Hemisphere	0
+SIQ8677	39	Male	326	155/104	47	1	0	1	0	0	12.82	Average	1	0	1	2.26	171416	22.55	468	2	8.00	Argentina	South America	Southern Hemisphere	1
+OGV4421	40	Male	198	104/98	59	1	1	1	0	1	15.13	Average	1	0	5	7.46	129026	22.08	784	1	9.00	South Africa	Africa	Southern Hemisphere	0
+LDS5768	86	Male	301	159/76	51	1	0	1	0	0	1.94	Average	1	1	10	2.20	274242	34.37	509	5	9.00	Thailand	Asia	Northern Hemisphere	0
+PLR8209	56	Male	314	152/94	51	0	1	1	0	1	11.59	Average	0	1	3	6.34	67386	35.59	205	2	5.00	United Kingdom	Europe	Northern Hemisphere	1
+YLL9363	19	Male	227	108/78	81	1	1	1	0	1	14.69	Unhealthy	0	1	5	2.78	295211	36.33	209	7	8.00	South Africa	Africa	Southern Hemisphere	0
+ITN4331	72	Female	304	168/90	57	0	0	1	1	1	8.81	Average	0	0	4	7.48	44491	37.13	109	6	6.00	China	Asia	Northern Hemisphere	0
+ERP9347	80	Male	334	105/108	110	0	0	1	0	0	9.34	Healthy	0	0	4	4.75	51385	31.36	530	0	9.00	United Kingdom	Europe	Northern Hemisphere	0
+UFC0697	53	Female	301	146/94	47	1	1	1	1	0	2.54	Unhealthy	1	1	4	6.72	76456	18.33	654	4	4.00	Australia	Australia	Southern Hemisphere	0
+JFL6450	21	Male	213	109/65	97	1	0	1	0	1	5.04	Average	0	0	9	5.83	273127	36.16	232	7	4.00	India	Asia	Northern Hemisphere	1
+JKY9288	90	Female	254	166/89	102	1	0	1	1	0	9.82	Unhealthy	0	0	4	3.50	243025	39.51	331	0	5.00	Colombia	South America	Northern Hemisphere	0
+AAX1328	28	Male	237	163/61	73	1	0	1	1	0	13.58	Unhealthy	1	1	3	1.92	115859	19.41	485	7	8.00	Vietnam	Asia	Northern Hemisphere	1
+XHX1600	69	Female	230	117/76	107	0	0	1	1	1	7.75	Healthy	1	0	3	8.11	153107	28.79	250	3	6.00	Brazil	South America	Southern Hemisphere	0
+SDW5368	73	Female	248	106/60	70	1	1	1	0	1	3.20	Healthy	0	1	6	8.00	90408	28.82	113	6	10.00	Canada	North America	Northern Hemisphere	0
+GAN8948	66	Male	316	159/70	58	1	0	1	1	0	10.76	Healthy	0	1	4	0.57	292920	30.66	377	0	7.00	Brazil	South America	Southern Hemisphere	1
+AND5753	75	Male	277	145/92	87	1	1	1	0	1	4.08	Average	0	0	10	6.21	78546	25.08	180	6	5.00	Colombia	South America	Northern Hemisphere	0
+WMN2843	30	Male	388	170/106	41	1	1	1	0	1	1.20	Healthy	0	1	6	6.39	149387	27.77	229	1	6.00	Spain	Europe	Southern Hemisphere	0
+LXD8525	22	Female	206	134/94	104	0	1	0	0	1	6.43	Unhealthy	0	0	4	4.01	128229	39.85	602	0	6.00	South Korea	Asia	Northern Hemisphere	0
+OMR5899	88	Male	384	113/80	67	1	0	1	0	0	16.18	Healthy	0	1	1	3.75	179312	36.70	285	2	8.00	Nigeria	Africa	Northern Hemisphere	0
+ZLM2405	90	Female	205	163/102	93	1	1	1	0	0	5.78	Unhealthy	1	1	4	2.80	274393	27.62	471	2	10.00	New Zealand	Australia	Southern Hemisphere	0
+ACQ6112	79	Male	261	149/100	65	0	1	1	1	1	3.87	Unhealthy	0	1	6	2.62	162055	19.95	554	6	7.00	United Kingdom	Europe	Northern Hemisphere	0
+KMA0239	63	Female	308	125/76	96	1	1	1	0	1	13.28	Unhealthy	1	1	2	7.48	51834	24.11	344	6	10.00	Brazil	South America	Southern Hemisphere	1
+HHA8617	27	Male	246	100/67	71	1	1	1	0	1	8.01	Healthy	0	0	2	2.25	271798	35.29	416	3	6.00	Thailand	Asia	Northern Hemisphere	1
+PZM6937	18	Male	396	110/101	45	0	0	1	0	1	14.88	Healthy	1	1	10	10.32	138696	31.71	445	3	6.00	United Kingdom	Europe	Northern Hemisphere	0
+ELD0719	60	Male	338	149/69	96	1	1	1	0	0	18.85	Healthy	1	1	7	3.58	186453	33.85	385	0	8.00	Argentina	South America	Southern Hemisphere	1
+PHK4364	34	Female	382	135/63	63	1	0	0	0	1	10.03	Average	1	1	10	10.68	38329	38.92	709	2	6.00	France	Europe	Northern Hemisphere	1
+NXR3682	60	Male	291	137/67	72	1	0	1	1	1	16.89	Unhealthy	1	1	7	10.96	268377	37.55	426	4	4.00	Canada	North America	Northern Hemisphere	1
+UQC2723	37	Male	163	178/78	53	1	1	1	1	0	18.05	Average	0	1	5	8.62	72564	19.95	528	1	7.00	China	Asia	Northern Hemisphere	0
+CFZ8373	71	Male	129	116/73	107	1	1	1	0	1	15.80	Average	0	0	9	5.33	175465	29.76	388	2	7.00	New Zealand	Australia	Southern Hemisphere	0
+RNA0445	88	Female	168	110/72	48	1	1	1	0	0	4.14	Healthy	0	0	8	5.87	285832	38.33	314	5	4.00	Argentina	South America	Southern Hemisphere	0
+YKA1578	89	Male	247	100/88	79	1	0	1	1	1	8.10	Healthy	1	1	1	2.05	262651	38.20	441	1	10.00	Brazil	South America	Southern Hemisphere	0
+EIM7657	33	Male	218	121/72	98	0	1	1	1	1	16.11	Average	1	1	4	10.62	103758	33.74	306	5	9.00	United Kingdom	Europe	Northern Hemisphere	0
+YWD5623	40	Female	237	174/102	49	1	0	0	0	0	15.03	Healthy	1	1	6	9.94	137537	19.69	749	5	6.00	Vietnam	Asia	Northern Hemisphere	0
+EAI3641	29	Female	388	177/94	53	1	0	0	0	1	2.78	Unhealthy	1	0	5	0.05	179966	37.22	347	3	6.00	Japan	Asia	Northern Hemisphere	1
+EUK0592	89	Female	227	126/108	79	1	1	1	0	0	2.30	Healthy	0	1	8	2.46	65113	23.67	341	4	10.00	Spain	Europe	Southern Hemisphere	0
+DXT5853	37	Male	171	120/101	88	1	1	1	0	1	11.40	Unhealthy	1	0	3	8.73	188465	22.04	451	1	5.00	Spain	Europe	Southern Hemisphere	0
+AZR0892	82	Male	378	118/105	96	1	1	1	0	0	1.99	Healthy	1	0	4	6.25	230457	40.00	286	2	4.00	Nigeria	Africa	Northern Hemisphere	1
+YTL7126	86	Female	124	142/88	96	1	0	1	0	0	14.01	Healthy	0	1	4	1.88	167843	28.96	356	1	8.00	Brazil	South America	Southern Hemisphere	0
+GNL2507	71	Female	279	128/105	56	1	1	1	1	1	12.17	Unhealthy	1	0	5	4.26	259886	39.95	336	6	5.00	New Zealand	Australia	Southern Hemisphere	0
+PKU2212	32	Male	338	143/75	85	1	0	1	0	1	6.21	Average	1	0	7	7.32	105975	32.50	455	1	4.00	Colombia	South America	Northern Hemisphere	1
+NRR1900	49	Male	253	103/78	49	0	0	1	0	1	10.80	Average	1	0	5	7.97	246202	34.48	223	7	8.00	South Korea	Asia	Northern Hemisphere	1
+XAQ9706	34	Female	245	116/102	87	0	0	0	1	0	15.19	Healthy	0	1	5	11.74	35141	37.89	766	7	6.00	Nigeria	Africa	Northern Hemisphere	0
+IFZ1439	63	Female	226	132/76	94	0	0	1	1	1	3.65	Average	1	0	9	7.96	248256	32.54	262	5	8.00	Australia	Australia	Southern Hemisphere	0
+UIP9627	23	Male	248	169/92	88	0	1	1	1	1	18.98	Average	1	1	10	6.60	236752	19.40	239	3	6.00	Vietnam	Asia	Northern Hemisphere	0
+BNA7793	74	Female	281	113/79	58	0	0	1	0	1	7.26	Average	0	0	6	0.38	185546	32.03	555	0	7.00	India	Asia	Northern Hemisphere	0
+VWX9664	33	Male	123	99/71	101	0	0	1	1	0	12.74	Average	0	1	6	0.93	97058	25.16	363	5	5.00	United Kingdom	Europe	Northern Hemisphere	0
+CYT4743	59	Male	173	96/93	85	1	0	1	1	1	3.91	Healthy	1	1	4	2.33	43410	28.06	489	1	8.00	Canada	North America	Northern Hemisphere	0
+AGH6728	52	Female	231	145/82	66	1	0	1	0	1	1.54	Healthy	1	0	1	4.21	59008	36.87	788	7	10.00	Colombia	South America	Northern Hemisphere	0
+PUS3059	62	Female	234	173/62	61	1	0	1	0	0	13.83	Average	1	0	7	4.34	230906	23.84	121	6	10.00	India	Asia	Northern Hemisphere	0
+RCE5059	64	Male	224	179/62	59	1	1	1	1	0	10.71	Healthy	1	0	8	6.48	107142	22.02	553	1	9.00	Germany	Europe	Northern Hemisphere	1
+KTU2333	80	Male	268	100/69	102	1	1	1	1	0	8.93	Average	1	1	6	4.95	55296	29.61	485	2	7.00	Argentina	South America	Southern Hemisphere	0
+FON8872	32	Male	253	153/77	57	1	0	1	1	1	19.41	Healthy	0	1	7	4.68	278335	29.47	617	3	5.00	Argentina	South America	Southern Hemisphere	0
+LTS6151	82	Male	396	156/74	60	0	1	1	0	1	19.30	Unhealthy	1	1	5	5.40	265224	23.66	471	6	10.00	United States	North America	Northern Hemisphere	0
+WER6567	45	Male	133	162/82	76	1	0	1	1	0	2.75	Average	1	1	8	7.20	86260	21.28	174	6	7.00	Vietnam	Asia	Northern Hemisphere	0
+YJM3019	28	Male	209	98/109	81	1	0	1	1	0	4.03	Healthy	1	0	7	11.16	28245	28.96	167	3	9.00	South Korea	Asia	Northern Hemisphere	1
+GMX4668	61	Male	306	165/89	64	1	0	1	0	0	15.76	Healthy	1	0	7	7.10	185111	25.87	563	6	5.00	Japan	Asia	Northern Hemisphere	0
+TRR4979	36	Male	133	150/73	87	0	1	1	0	0	14.70	Average	1	1	1	2.56	77762	39.33	665	7	10.00	Spain	Europe	Southern Hemisphere	0
+LDJ4682	30	Female	186	163/102	82	1	0	0	1	0	1.06	Healthy	1	1	3	1.37	173953	23.62	605	0	8.00	China	Asia	Northern Hemisphere	1
+SHL1488	54	Male	293	134/90	67	1	1	1	1	0	12.04	Average	0	0	3	5.64	76597	25.84	65	5	5.00	Thailand	Asia	Northern Hemisphere	0
+LJI9585	70	Male	161	133/60	74	1	1	1	1	0	1.62	Average	1	0	1	4.50	225119	27.29	657	2	5.00	China	Asia	Northern Hemisphere	1
+QGJ6378	76	Male	243	157/110	42	0	1	1	0	1	19.82	Unhealthy	1	1	9	9.69	136616	36.62	237	0	4.00	Colombia	South America	Northern Hemisphere	0
+EIH9699	41	Male	398	96/106	56	1	0	1	1	0	8.81	Healthy	0	0	10	1.75	196083	33.63	141	0	7.00	Vietnam	Asia	Northern Hemisphere	1
+XHY0495	44	Male	380	173/82	75	1	0	1	1	0	15.64	Average	0	0	8	9.68	242224	21.72	767	6	6.00	Japan	Asia	Northern Hemisphere	1
+JEK2629	27	Female	297	96/92	75	0	1	0	0	1	2.88	Average	1	0	2	0.87	148649	18.04	292	6	8.00	Australia	Australia	Southern Hemisphere	0
+IPU0926	45	Male	247	162/71	82	1	0	1	1	0	6.79	Average	0	1	2	9.62	261792	23.59	743	3	4.00	France	Europe	Northern Hemisphere	1
+ZBC0359	76	Male	133	91/83	93	0	0	1	1	1	16.15	Average	0	1	7	0.92	286446	27.22	563	1	10.00	Argentina	South America	Southern Hemisphere	0
+FNE9444	27	Female	195	148/89	69	0	1	0	1	1	6.09	Healthy	0	1	8	5.26	26073	25.41	214	5	6.00	New Zealand	Australia	Southern Hemisphere	0
+FYX5444	62	Male	239	145/98	86	0	1	1	0	0	16.78	Unhealthy	1	1	6	9.60	167906	24.85	221	5	9.00	New Zealand	Australia	Southern Hemisphere	1
+PID6523	69	Female	149	180/108	81	1	1	1	1	1	3.86	Healthy	0	1	8	6.93	39574	23.41	447	3	5.00	Argentina	South America	Southern Hemisphere	0
+JFH5824	42	Female	320	98/67	110	1	0	1	1	0	7.28	Healthy	0	1	2	7.34	278527	32.14	634	2	4.00	China	Asia	Northern Hemisphere	0
+MGR9885	42	Female	246	154/81	100	1	1	1	1	1	16.23	Healthy	1	1	1	1.33	209247	22.04	460	2	9.00	Germany	Europe	Northern Hemisphere	0
+PBX8054	67	Male	208	172/64	99	1	0	1	1	0	8.96	Unhealthy	0	1	1	9.03	23997	35.47	711	2	5.00	Japan	Asia	Northern Hemisphere	0
+KJS3508	79	Male	219	118/75	56	1	1	1	0	1	19.88	Average	1	1	7	4.32	109045	36.74	216	2	9.00	Germany	Europe	Northern Hemisphere	0
+DNC4502	19	Male	335	144/60	80	1	0	1	0	1	7.18	Unhealthy	1	0	5	3.18	173234	34.21	97	1	4.00	Thailand	Asia	Northern Hemisphere	0
+SNL4419	35	Male	265	133/63	92	0	1	1	0	1	16.11	Unhealthy	0	0	4	5.12	187632	29.62	267	0	8.00	Nigeria	Africa	Northern Hemisphere	1
+MRG3205	23	Male	380	154/102	76	0	1	1	1	0	9.20	Unhealthy	0	0	4	8.64	116037	32.07	695	5	9.00	Japan	Asia	Northern Hemisphere	0
+PQR7571	41	Male	178	123/91	64	1	1	1	0	1	9.20	Unhealthy	0	0	2	11.14	255891	25.09	717	5	5.00	Argentina	South America	Southern Hemisphere	1
+CVA7420	87	Male	253	102/82	95	0	0	1	1	1	6.78	Healthy	0	1	3	8.36	288093	37.40	795	5	9.00	Australia	Australia	Southern Hemisphere	0
+LTC1110	36	Female	126	146/76	88	1	1	0	1	1	8.21	Healthy	0	0	9	5.78	205962	21.18	383	1	5.00	South Korea	Asia	Northern Hemisphere	0
+IGP0445	63	Female	251	178/83	108	1	1	1	0	0	4.31	Average	0	1	3	10.52	293766	21.36	332	5	4.00	Canada	North America	Northern Hemisphere	1
+WKX1032	27	Female	307	123/72	90	1	1	0	0	1	5.59	Average	0	0	4	5.78	255216	23.24	785	6	5.00	South Korea	Asia	Northern Hemisphere	0
+JHC9731	59	Male	359	154/63	74	1	0	1	1	1	17.51	Unhealthy	1	0	7	2.58	212902	21.99	449	0	6.00	France	Europe	Northern Hemisphere	0
+ZAR0685	89	Male	270	158/85	73	1	1	1	0	0	13.52	Unhealthy	1	0	4	11.52	79041	18.46	701	7	7.00	India	Asia	Northern Hemisphere	0
+TRI7066	88	Male	336	161/105	57	1	1	1	0	0	19.85	Unhealthy	0	1	2	11.13	155187	22.41	524	7	8.00	India	Asia	Northern Hemisphere	0
+ZFY8621	89	Male	225	131/70	81	1	0	1	1	0	16.60	Average	0	1	7	0.55	269876	21.16	549	4	4.00	China	Asia	Northern Hemisphere	0
+ICO8112	80	Male	193	169/90	74	1	0	1	0	0	15.04	Unhealthy	0	0	9	8.32	194486	37.09	31	5	4.00	United Kingdom	Europe	Northern Hemisphere	1
+ZLT2622	81	Male	148	154/95	60	1	1	1	1	1	14.00	Average	1	1	6	0.58	200231	18.43	276	6	6.00	Canada	North America	Northern Hemisphere	0
+XGG5032	35	Female	358	110/104	56	0	0	0	0	1	9.33	Unhealthy	0	1	7	5.90	256308	32.78	569	7	6.00	Germany	Europe	Northern Hemisphere	1
+EDI3563	84	Male	296	121/65	57	1	1	1	1	0	15.73	Unhealthy	1	1	7	6.93	281871	32.14	744	5	9.00	Australia	Australia	Southern Hemisphere	1
+PVI2611	21	Male	206	142/104	67	1	1	1	1	1	0.64	Healthy	1	0	6	1.07	21002	26.78	128	4	10.00	Colombia	South America	Northern Hemisphere	0
+JKE5424	75	Male	339	153/89	88	1	1	1	1	0	8.78	Healthy	0	0	9	6.93	62142	32.33	331	7	10.00	United Kingdom	Europe	Northern Hemisphere	1
+XGF9824	60	Female	377	125/95	49	0	0	1	0	1	11.61	Average	0	1	3	9.16	109194	25.25	327	6	8.00	Colombia	South America	Northern Hemisphere	1
+KLT7600	53	Male	136	135/92	65	1	1	1	1	0	5.87	Healthy	0	1	2	11.21	101399	35.14	52	3	9.00	Argentina	South America	Southern Hemisphere	1
+GFT1011	66	Male	200	143/83	93	1	1	1	1	0	14.94	Unhealthy	0	1	7	8.66	139451	32.16	394	5	8.00	Argentina	South America	Southern Hemisphere	0
+GBX5187	75	Female	234	149/73	41	0	1	1	1	1	16.20	Average	0	0	3	0.69	43227	26.11	54	6	9.00	Nigeria	Africa	Northern Hemisphere	1
+OVC8311	58	Male	364	96/66	50	0	1	1	1	1	7.26	Unhealthy	1	0	2	6.89	282291	20.88	739	4	9.00	Spain	Europe	Southern Hemisphere	1
+NCR3052	25	Female	353	157/98	83	1	1	0	0	0	16.96	Healthy	1	0	7	8.32	53756	32.92	407	6	7.00	Italy	Europe	Southern Hemisphere	0
+YJO3659	29	Male	252	120/109	79	1	0	1	0	0	7.61	Average	0	1	7	3.82	96158	24.80	751	2	10.00	South Africa	Africa	Southern Hemisphere	0
+LTG3105	85	Female	232	171/69	102	1	0	1	1	0	12.59	Healthy	1	1	8	0.19	266549	22.18	436	6	8.00	Canada	North America	Northern Hemisphere	1
+OEI6632	24	Female	387	106/101	78	1	0	0	0	0	9.43	Average	1	1	10	3.45	137445	28.33	473	3	8.00	China	Asia	Northern Hemisphere	0
+JTS2700	78	Male	299	90/105	66	0	1	1	0	1	2.17	Unhealthy	1	0	6	2.65	280881	18.33	218	5	6.00	Australia	Australia	Southern Hemisphere	0
+FXR0426	32	Male	357	133/77	89	1	0	1	0	0	5.67	Average	1	1	2	10.78	177090	36.25	654	6	9.00	South Korea	Asia	Northern Hemisphere	0
+LGH0316	18	Female	214	179/88	68	0	0	0	0	1	15.01	Healthy	1	1	2	5.71	96215	18.31	129	6	9.00	Colombia	South America	Northern Hemisphere	1
+ZZQ4895	49	Male	279	177/70	86	1	0	1	1	0	15.55	Average	1	1	8	9.30	45680	23.68	579	1	6.00	Vietnam	Asia	Northern Hemisphere	0
+CJV4418	42	Male	370	98/73	68	0	1	1	0	1	8.70	Unhealthy	0	0	2	10.98	51439	22.48	492	0	8.00	United Kingdom	Europe	Northern Hemisphere	0
+ZUN7568	83	Female	345	174/61	104	1	0	1	1	1	10.37	Average	1	1	6	5.96	196638	20.09	696	6	9.00	Australia	Australia	Southern Hemisphere	0
+IED0019	58	Female	351	176/110	89	1	0	1	0	1	19.31	Healthy	0	1	2	5.95	257788	39.99	202	4	8.00	New Zealand	Australia	Southern Hemisphere	0
+DKF5216	33	Male	344	167/62	92	0	1	1	1	0	9.72	Healthy	1	0	1	9.91	291028	19.96	197	6	6.00	South Africa	Africa	Southern Hemisphere	0
+HLK1794	24	Female	152	103/82	44	1	1	0	0	1	15.48	Healthy	1	0	9	6.82	50437	37.57	521	5	8.00	Canada	North America	Northern Hemisphere	0
+OUM0988	22	Male	303	171/75	105	1	1	1	0	1	13.78	Healthy	0	1	8	6.14	29666	39.10	325	5	8.00	Vietnam	Asia	Northern Hemisphere	0
+KBN1743	50	Male	193	158/87	73	0	1	1	1	1	2.22	Unhealthy	0	0	8	9.69	31206	24.04	35	6	8.00	United Kingdom	Europe	Northern Hemisphere	1
+WSF0425	73	Male	150	131/109	57	1	1	1	0	0	17.75	Average	0	1	4	7.73	213403	25.97	123	1	8.00	France	Europe	Northern Hemisphere	0
+XSS0940	63	Male	131	124/94	83	0	0	1	0	0	3.41	Average	0	1	5	4.68	227989	22.66	694	1	4.00	Vietnam	Asia	Northern Hemisphere	0
+PXI9906	24	Male	334	164/71	107	1	1	1	1	1	3.91	Average	0	0	10	1.26	122258	36.94	434	6	8.00	Brazil	South America	Southern Hemisphere	0
+FPC1521	72	Female	202	100/81	92	0	0	1	1	0	12.77	Average	0	0	2	9.74	81973	33.51	131	4	6.00	New Zealand	Australia	Southern Hemisphere	0
+LPN6836	58	Female	276	164/90	109	1	0	1	0	1	16.83	Unhealthy	1	0	9	9.65	283638	18.07	248	5	10.00	New Zealand	Australia	Southern Hemisphere	0
+DZP9719	37	Male	190	108/64	64	0	1	1	0	1	6.11	Unhealthy	0	0	6	8.54	80970	38.43	648	4	6.00	South Korea	Asia	Northern Hemisphere	1
+WDB5143	45	Male	226	179/63	83	0	0	1	1	0	3.52	Average	0	1	2	7.11	265090	34.19	348	7	6.00	Australia	Australia	Southern Hemisphere	0
+XTF7566	24	Male	272	141/75	72	0	1	1	0	1	18.05	Unhealthy	1	1	2	1.68	190767	25.02	750	3	9.00	Italy	Europe	Southern Hemisphere	0
+IRJ5181	81	Female	373	116/93	73	1	1	1	0	1	9.53	Unhealthy	1	0	7	11.28	49335	26.55	431	0	5.00	Nigeria	Africa	Northern Hemisphere	1
+PVC5447	49	Male	263	115/78	108	1	0	1	1	0	8.38	Healthy	1	1	5	2.57	124315	26.64	714	3	9.00	South Korea	Asia	Northern Hemisphere	0
+GXA9148	28	Male	194	146/107	78	1	0	1	0	1	2.30	Unhealthy	0	1	10	7.50	165452	22.27	649	1	8.00	South Korea	Asia	Northern Hemisphere	0
+IAB5092	22	Male	357	102/105	96	1	0	1	1	1	7.79	Healthy	1	0	8	7.94	153954	22.44	668	0	10.00	South Africa	Africa	Southern Hemisphere	0
+ITY8640	25	Female	302	151/95	94	1	0	0	0	1	5.50	Unhealthy	1	1	10	7.62	136230	37.99	401	7	8.00	Canada	North America	Northern Hemisphere	0
+LMH8932	23	Female	337	133/82	48	0	1	0	1	0	2.75	Average	0	0	9	4.50	197970	28.57	610	5	8.00	Argentina	South America	Southern Hemisphere	1
+DKF7925	61	Male	205	134/72	105	0	1	1	1	1	11.06	Average	0	1	5	2.47	105580	24.54	244	5	5.00	China	Asia	Northern Hemisphere	0
+TRV5341	47	Male	170	157/104	95	0	0	1	0	1	5.29	Healthy	1	0	1	11.84	221301	25.75	691	0	8.00	South Korea	Asia	Northern Hemisphere	0
+KCE3422	46	Female	356	126/107	62	1	1	1	0	1	18.37	Unhealthy	1	1	4	8.01	132614	19.63	88	2	6.00	Colombia	South America	Northern Hemisphere	1
+LLN6231	82	Male	297	105/103	90	1	0	1	0	0	12.06	Average	1	0	5	3.75	136235	31.62	532	0	5.00	South Africa	Africa	Southern Hemisphere	0
+GBB8361	52	Male	274	168/110	77	1	1	1	1	1	9.35	Unhealthy	0	0	10	10.75	129295	39.40	777	7	5.00	France	Europe	Northern Hemisphere	0
+MGP8803	88	Female	122	162/71	57	0	1	1	1	0	8.23	Average	1	0	1	4.22	281058	18.50	121	3	9.00	Brazil	South America	Southern Hemisphere	0
+SDD6614	21	Male	188	115/87	51	0	1	1	0	0	9.85	Unhealthy	0	0	10	8.47	26329	38.04	420	5	6.00	Canada	North America	Northern Hemisphere	0
+AOC1459	47	Male	125	99/64	103	1	1	1	0	1	0.40	Healthy	1	1	8	10.21	153639	22.58	350	5	7.00	Australia	Australia	Southern Hemisphere	0
+AYM4283	82	Male	200	126/109	80	0	0	1	1	1	3.97	Unhealthy	0	0	2	2.44	131867	29.72	652	6	7.00	New Zealand	Australia	Southern Hemisphere	0
+MYI3162	45	Male	328	99/90	78	1	1	1	1	1	0.00	Average	0	0	9	3.57	196560	37.49	413	7	4.00	France	Europe	Northern Hemisphere	0
+KZY7247	75	Female	389	123/107	51	0	1	1	0	0	11.78	Healthy	0	1	2	6.08	202561	39.46	779	1	5.00	Brazil	South America	Southern Hemisphere	0
+EAB3469	86	Male	225	165/71	48	1	1	1	0	0	18.21	Unhealthy	0	1	5	5.94	149205	35.28	558	3	4.00	Nigeria	Africa	Northern Hemisphere	0
+PLA0781	20	Male	201	127/89	55	1	0	1	0	1	18.26	Healthy	1	1	9	5.75	185582	20.78	109	5	10.00	South Korea	Asia	Northern Hemisphere	0
+VGQ3461	31	Female	205	121/66	110	1	0	0	0	0	16.59	Unhealthy	0	0	1	1.90	60746	18.20	754	5	4.00	France	Europe	Northern Hemisphere	0
+QZH6722	60	Male	138	159/98	101	1	1	1	0	0	17.80	Unhealthy	0	0	8	8.40	88117	24.31	760	2	9.00	United Kingdom	Europe	Northern Hemisphere	0
+WPO9038	65	Male	376	165/70	89	1	1	1	1	1	17.82	Unhealthy	0	0	7	8.40	226407	20.96	753	2	10.00	Argentina	South America	Southern Hemisphere	0
+DTV5850	84	Female	181	138/89	59	0	0	1	1	0	10.27	Unhealthy	0	1	7	2.51	281179	38.05	457	0	4.00	Argentina	South America	Southern Hemisphere	0
+HPS8287	42	Male	277	119/91	107	1	1	1	1	1	8.79	Average	1	0	9	5.18	62873	20.71	122	3	7.00	Argentina	South America	Southern Hemisphere	1
+PSY8110	62	Male	138	102/107	55	1	1	1	0	1	6.04	Average	0	1	5	0.92	133245	32.65	312	5	8.00	South Korea	Asia	Northern Hemisphere	0
+VEC6403	56	Female	230	97/93	76	1	0	1	1	1	12.90	Unhealthy	1	0	6	11.20	280909	29.64	778	6	9.00	Japan	Asia	Northern Hemisphere	0
+DWZ6826	56	Male	263	120/65	64	0	1	1	1	0	9.32	Healthy	0	0	1	4.97	46221	23.55	676	6	10.00	Japan	Asia	Northern Hemisphere	0
+RFT4958	50	Female	184	118/82	74	0	1	1	1	1	10.49	Average	0	0	5	6.11	112620	37.80	775	1	10.00	Australia	Australia	Southern Hemisphere	0
+RMZ5516	58	Female	275	178/86	98	0	0	1	1	1	17.98	Unhealthy	1	1	5	0.81	230081	25.69	183	6	9.00	United States	North America	Northern Hemisphere	0
+CPC7799	30	Male	163	92/82	86	1	1	1	0	1	7.13	Unhealthy	1	1	9	11.39	80512	29.68	601	1	5.00	Spain	Europe	Southern Hemisphere	1
+YBZ4650	32	Male	243	111/69	95	1	0	1	0	1	8.51	Healthy	0	0	9	2.64	89938	36.39	317	3	10.00	France	Europe	Northern Hemisphere	0
+XZE0584	69	Male	370	164/92	105	0	1	1	1	1	0.15	Healthy	0	1	2	8.44	51970	37.20	592	0	9.00	United States	North America	Northern Hemisphere	1
+YCH0527	43	Male	394	137/109	79	0	0	1	0	1	11.72	Unhealthy	0	1	2	4.18	198613	34.01	113	7	6.00	India	Asia	Northern Hemisphere	0
+IUH2759	56	Female	155	154/92	72	1	1	1	1	1	5.56	Healthy	0	0	10	2.01	235004	26.31	191	1	6.00	China	Asia	Northern Hemisphere	0
+CJP0345	39	Male	190	91/62	60	0	0	1	1	1	13.88	Average	1	1	8	4.40	117045	35.03	83	7	4.00	United Kingdom	Europe	Northern Hemisphere	1
+NNR3835	86	Female	128	155/104	104	0	1	1	1	1	13.21	Healthy	1	0	9	2.57	267462	38.21	32	5	10.00	Germany	Europe	Northern Hemisphere	0
+KAE4264	77	Male	217	124/91	52	0	1	1	1	1	13.28	Healthy	0	0	10	9.29	290828	34.05	453	2	7.00	India	Asia	Northern Hemisphere	1
+XJQ7283	77	Female	220	125/72	57	0	0	1	1	1	6.21	Healthy	1	1	7	2.12	296118	39.17	423	2	8.00	Nigeria	Africa	Northern Hemisphere	1
+CSV3638	18	Female	353	159/108	46	0	0	0	1	0	15.24	Average	0	0	9	2.06	82682	21.91	455	0	8.00	France	Europe	Northern Hemisphere	0
+HTW2151	26	Male	225	106/64	58	1	1	1	0	1	0.38	Average	1	0	2	11.55	30974	18.84	234	6	5.00	Vietnam	Asia	Northern Hemisphere	1
+KKR6535	52	Male	396	103/106	84	0	0	1	0	1	9.79	Healthy	0	0	5	4.10	266611	22.58	650	0	10.00	India	Asia	Northern Hemisphere	0
+PUN6734	37	Male	399	162/62	70	0	1	1	1	0	7.86	Healthy	1	0	1	11.98	206564	20.87	565	5	10.00	Japan	Asia	Northern Hemisphere	0
+UIB5375	67	Male	378	105/80	57	0	0	1	0	1	14.27	Unhealthy	0	1	3	10.34	37631	29.75	798	5	8.00	South Africa	Africa	Southern Hemisphere	0
+NQS1727	60	Male	283	175/70	55	1	0	1	0	0	19.86	Average	0	1	9	3.08	193069	35.04	769	0	4.00	Italy	Europe	Southern Hemisphere	0
+NSF4755	28	Female	289	125/93	44	1	0	0	0	1	1.17	Unhealthy	1	0	5	5.45	250406	23.11	412	1	4.00	China	Asia	Northern Hemisphere	1
+WXM0274	81	Male	120	98/108	78	0	0	1	0	0	12.95	Unhealthy	1	1	6	8.74	81743	31.88	455	2	8.00	Nigeria	Africa	Northern Hemisphere	0
+AIW4911	87	Male	138	123/95	83	0	1	1	0	0	7.17	Average	1	0	7	6.96	50675	19.50	63	1	6.00	Colombia	South America	Northern Hemisphere	1
+RKM6961	50	Male	131	133/102	40	0	0	1	1	0	3.09	Unhealthy	1	0	9	6.11	261735	33.90	576	1	8.00	Australia	Australia	Southern Hemisphere	1
+ZVX8100	62	Male	284	157/100	109	1	1	1	1	1	2.86	Healthy	0	1	8	8.31	191267	37.23	198	2	9.00	France	Europe	Northern Hemisphere	1
+JDK0538	68	Male	270	110/67	106	1	1	1	1	1	15.99	Unhealthy	0	1	1	2.34	113458	25.06	93	4	6.00	Germany	Europe	Northern Hemisphere	0
+XPP2301	21	Female	321	142/96	102	1	1	0	0	1	16.25	Unhealthy	1	1	9	11.16	176010	21.80	764	7	7.00	Japan	Asia	Northern Hemisphere	0
+OKR6669	24	Male	327	133/91	82	1	1	1	0	0	9.81	Unhealthy	0	0	6	1.19	172355	36.35	82	2	7.00	Thailand	Asia	Northern Hemisphere	0
+FUD7151	44	Female	262	128/94	42	1	1	1	1	1	6.58	Healthy	0	1	1	10.89	297991	21.94	737	3	9.00	South Africa	Africa	Southern Hemisphere	1
+IAC2550	25	Male	212	115/109	54	0	0	1	0	1	9.05	Healthy	0	0	8	4.55	43792	28.26	94	5	9.00	Australia	Australia	Southern Hemisphere	0
+ZXA5748	76	Male	153	175/62	87	0	0	1	0	0	16.71	Unhealthy	1	1	8	7.28	279967	28.36	211	5	7.00	Australia	Australia	Southern Hemisphere	0
+AMH0692	83	Female	216	155/110	85	0	1	1	0	1	5.16	Average	0	1	3	3.80	261285	21.50	298	0	5.00	France	Europe	Northern Hemisphere	1
+IWI0601	43	Male	152	95/63	62	1	1	1	0	0	14.91	Healthy	0	1	8	3.01	291544	33.82	288	0	10.00	Canada	North America	Northern Hemisphere	0
+IRX7433	44	Female	350	161/94	104	1	1	1	0	0	5.58	Healthy	0	0	5	6.02	256161	31.36	735	0	7.00	Australia	Australia	Southern Hemisphere	1
+EJU5290	43	Male	192	117/76	66	1	0	1	1	0	0.73	Healthy	1	0	10	0.11	122282	29.06	190	6	4.00	Germany	Europe	Northern Hemisphere	0
+HZU0037	22	Female	345	179/82	72	0	1	0	1	0	17.05	Average	1	1	4	2.65	147795	38.45	281	5	9.00	Nigeria	Africa	Northern Hemisphere	1
+LEE8234	38	Male	128	179/65	56	1	1	1	1	0	6.03	Average	0	0	7	10.29	202662	34.36	146	6	4.00	South Africa	Africa	Southern Hemisphere	0
+IPH2474	53	Male	311	96/77	69	1	1	1	1	0	5.15	Average	1	1	7	3.56	27409	20.14	574	0	4.00	South Korea	Asia	Northern Hemisphere	0
+OUS8176	86	Female	206	167/64	57	1	0	1	0	1	20.00	Healthy	1	1	8	8.17	45443	38.04	359	5	4.00	Thailand	Asia	Northern Hemisphere	0
+MSP7682	68	Female	125	142/68	57	1	1	1	1	0	5.90	Unhealthy	1	0	8	1.43	290957	21.53	155	6	7.00	Canada	North America	Northern Hemisphere	0
+VDU1518	47	Male	385	138/66	42	1	1	1	0	0	12.87	Average	0	0	8	5.77	112844	19.62	719	3	8.00	United States	North America	Northern Hemisphere	0
+QSQ1337	75	Male	121	180/103	49	1	0	1	1	1	11.06	Unhealthy	0	1	9	8.63	299050	34.09	466	2	5.00	China	Asia	Northern Hemisphere	1
+NZU5544	44	Male	330	90/62	85	1	1	1	0	1	16.64	Healthy	1	0	10	3.22	120152	21.81	106	7	9.00	Thailand	Asia	Northern Hemisphere	0
+ZMF2605	18	Female	356	137/64	48	0	0	0	0	1	7.36	Healthy	0	0	9	0.17	249273	22.62	492	6	6.00	South Korea	Asia	Northern Hemisphere	1
+VQD2926	51	Male	321	163/84	86	0	1	1	1	1	0.51	Healthy	1	1	4	2.29	215460	35.62	275	7	5.00	Italy	Europe	Southern Hemisphere	0
+TJD3106	81	Male	283	158/108	85	1	0	1	1	0	0.70	Healthy	0	0	6	8.13	262885	22.60	517	3	5.00	Colombia	South America	Northern Hemisphere	1
+FXR8774	75	Male	155	151/68	103	1	1	1	1	1	2.23	Unhealthy	0	1	6	2.61	294591	37.55	788	7	5.00	China	Asia	Northern Hemisphere	1
+LMZ2207	60	Male	162	168/97	91	1	0	1	0	1	9.97	Average	1	1	6	4.34	98373	36.72	273	1	9.00	Australia	Australia	Southern Hemisphere	0
+HKW6197	45	Female	203	156/106	72	1	1	1	1	0	12.71	Unhealthy	1	0	2	1.08	150259	26.02	515	2	6.00	India	Asia	Northern Hemisphere	0
+RCB7108	63	Male	141	103/75	107	1	0	1	1	1	3.75	Unhealthy	1	1	4	9.70	258559	33.52	187	4	8.00	Australia	Australia	Southern Hemisphere	0
+ISA3150	50	Male	283	103/61	105	1	0	1	0	0	16.52	Average	0	1	8	10.71	277215	28.92	544	7	6.00	New Zealand	Australia	Southern Hemisphere	1
+UHW7173	74	Female	361	105/103	51	0	1	1	0	1	3.57	Unhealthy	0	1	9	5.03	150064	20.57	784	3	8.00	Colombia	South America	Northern Hemisphere	0
+NBD0612	29	Female	200	173/65	109	1	1	0	1	0	11.32	Healthy	1	0	8	8.53	220053	21.54	103	6	10.00	Australia	Australia	Southern Hemisphere	1
+VTL9882	73	Female	220	116/74	68	0	0	1	1	1	14.99	Average	1	0	9	5.63	212803	33.60	132	6	4.00	New Zealand	Australia	Southern Hemisphere	1
+UTK7966	85	Male	201	131/96	82	1	1	1	0	0	16.64	Average	0	0	10	11.42	21717	23.20	118	4	5.00	India	Asia	Northern Hemisphere	0
+QMA7405	78	Male	244	141/68	64	1	0	1	0	1	3.31	Unhealthy	1	0	5	10.20	213849	18.41	115	3	10.00	Colombia	South America	Northern Hemisphere	1
+TWJ6230	76	Male	150	99/108	99	1	1	1	1	1	14.14	Unhealthy	1	1	1	4.62	37467	23.95	544	3	4.00	Argentina	South America	Southern Hemisphere	0
+YMO9545	46	Male	295	121/96	90	0	1	1	1	1	15.51	Healthy	1	1	9	8.98	59552	39.62	709	0	4.00	Canada	North America	Northern Hemisphere	0
+EDK0937	56	Female	287	110/96	95	0	0	1	0	1	7.51	Healthy	1	1	9	1.96	68601	23.77	85	1	8.00	India	Asia	Northern Hemisphere	1
+PMI1491	74	Female	339	112/66	58	1	1	1	1	0	18.75	Unhealthy	1	1	4	8.73	26246	29.41	38	4	5.00	United States	North America	Northern Hemisphere	0
+YZE4908	64	Male	144	133/70	67	1	0	1	1	0	10.17	Average	1	1	6	10.89	279143	22.95	117	4	10.00	Thailand	Asia	Northern Hemisphere	0
+GLV2486	26	Male	382	171/99	67	1	1	1	0	1	7.04	Unhealthy	1	1	9	2.79	77329	39.92	223	4	6.00	Italy	Europe	Southern Hemisphere	1
+BRG9907	40	Male	354	96/100	79	0	0	1	0	0	0.27	Healthy	0	1	7	2.75	270213	31.96	362	7	10.00	Colombia	South America	Northern Hemisphere	0
+YJN3447	19	Female	153	180/92	48	1	0	0	1	1	5.32	Average	1	0	3	6.69	209450	35.24	411	4	8.00	France	Europe	Northern Hemisphere	1
+VUW1193	18	Male	163	142/67	51	1	0	1	0	0	3.67	Unhealthy	1	1	1	1.04	186141	23.43	614	2	4.00	Colombia	South America	Northern Hemisphere	1
+IIR4559	53	Female	122	156/75	64	1	0	1	0	0	16.47	Average	1	1	6	4.41	104654	26.86	133	0	8.00	France	Europe	Northern Hemisphere	1
+PLH7490	63	Male	230	162/67	94	1	1	1	1	1	15.40	Healthy	1	1	9	9.49	51289	33.99	547	1	9.00	Argentina	South America	Southern Hemisphere	0
+OMY0486	36	Male	225	90/100	91	1	0	1	0	1	3.45	Healthy	1	0	1	1.56	54373	37.49	498	6	5.00	Vietnam	Asia	Northern Hemisphere	0
+IYH1719	67	Male	363	109/107	60	1	0	1	0	1	12.39	Unhealthy	0	1	7	5.63	134915	21.69	645	3	10.00	Germany	Europe	Northern Hemisphere	1
+RCM4245	50	Male	173	168/68	72	0	1	1	1	1	19.01	Healthy	1	1	8	10.44	151785	36.93	492	6	7.00	Italy	Europe	Southern Hemisphere	0
+FXK2707	64	Female	265	146/100	41	0	1	1	0	1	8.15	Average	0	1	7	2.54	52233	27.11	339	3	9.00	Japan	Asia	Northern Hemisphere	0
+SXP6277	75	Male	352	108/75	55	1	1	1	1	0	0.39	Healthy	1	0	6	11.26	171482	32.27	787	7	5.00	Argentina	South America	Southern Hemisphere	1
+YTR7765	26	Female	228	145/62	108	1	0	0	0	0	0.80	Healthy	1	1	9	5.90	169454	22.86	558	7	10.00	United Kingdom	Europe	Northern Hemisphere	1
+VCB3963	90	Male	136	168/68	100	0	1	1	1	0	13.84	Unhealthy	1	1	3	9.05	137071	23.55	733	0	8.00	India	Asia	Northern Hemisphere	1
+JJP8674	70	Male	140	112/108	76	0	1	1	0	1	11.66	Average	0	0	4	1.10	233933	24.53	697	0	8.00	South Korea	Asia	Northern Hemisphere	0
+TLC3781	24	Female	196	150/95	50	0	1	0	0	0	6.23	Average	1	0	4	3.20	223931	19.93	648	1	7.00	Japan	Asia	Northern Hemisphere	0
+SIO9750	77	Male	172	122/97	76	0	1	1	1	0	4.54	Average	0	1	4	11.16	32763	27.36	663	2	6.00	Nigeria	Africa	Northern Hemisphere	1
+LUQ7573	82	Female	319	161/77	102	0	0	1	1	0	1.53	Average	1	1	2	3.29	136486	30.34	291	2	4.00	Argentina	South America	Southern Hemisphere	1
+ALW1741	85	Female	325	115/61	87	0	0	1	0	1	19.28	Average	1	0	4	11.72	151317	34.09	502	4	10.00	United Kingdom	Europe	Northern Hemisphere	1
+VAE5681	25	Male	162	92/105	93	1	1	1	1	1	12.46	Average	0	1	5	1.52	157825	27.59	569	6	7.00	China	Asia	Northern Hemisphere	1
+DSD1356	67	Male	331	100/89	102	1	1	1	1	0	12.70	Average	0	1	2	8.20	152146	26.67	341	7	7.00	Australia	Australia	Southern Hemisphere	0
+SCA4405	77	Male	392	96/60	94	1	1	1	1	0	16.04	Unhealthy	1	1	3	9.52	180235	19.99	78	7	6.00	Vietnam	Asia	Northern Hemisphere	0
+RXN2426	39	Female	220	137/100	75	0	1	0	1	1	16.35	Healthy	1	1	4	5.83	62515	19.01	35	7	4.00	United Kingdom	Europe	Northern Hemisphere	0
+MGU4677	60	Female	308	94/109	73	1	1	1	1	1	8.48	Average	0	0	7	11.05	131723	20.54	81	6	8.00	India	Asia	Northern Hemisphere	0
+VEL6785	54	Female	284	93/102	101	0	1	1	1	0	8.14	Healthy	1	0	3	0.61	205263	32.29	257	5	5.00	Colombia	South America	Northern Hemisphere	0
+Jan-49	60	Male	147	114/103	101	1	1	1	0	1	17.14	Unhealthy	0	1	4	11.62	140911	26.32	624	3	5.00	France	Europe	Northern Hemisphere	0
+FUM7288	36	Male	193	105/90	61	0	1	1	1	0	10.50	Healthy	0	1	3	9.89	203019	26.00	91	6	10.00	South Korea	Asia	Northern Hemisphere	1
+BEG2015	41	Female	250	90/78	51	0	0	1	0	1	11.13	Unhealthy	0	1	5	3.44	106922	29.77	374	6	8.00	South Africa	Africa	Southern Hemisphere	0
+FPA6845	87	Male	122	126/74	108	1	0	1	1	0	1.43	Average	0	0	3	2.67	30371	25.05	767	2	4.00	South Korea	Asia	Northern Hemisphere	0
+XJI2791	32	Male	299	177/75	96	0	1	1	1	0	9.74	Average	0	0	1	2.13	236984	20.95	270	3	7.00	France	Europe	Northern Hemisphere	0
+NHU7732	85	Male	261	179/104	93	1	0	1	0	0	14.55	Healthy	1	0	1	10.53	162314	28.25	797	7	9.00	South Korea	Asia	Northern Hemisphere	0
+MLA0112	46	Male	187	101/75	95	0	0	1	0	0	19.61	Average	0	1	3	3.80	183757	29.12	306	3	8.00	South Korea	Asia	Northern Hemisphere	0
+XGD7682	48	Female	368	172/86	91	0	0	1	1	1	6.12	Average	0	1	10	1.57	239320	38.32	446	2	7.00	Spain	Europe	Southern Hemisphere	1
+NQJ4259	79	Male	346	173/63	85	0	1	1	0	1	19.85	Average	0	1	2	8.48	139789	29.79	778	0	9.00	India	Asia	Northern Hemisphere	1
+BGQ6260	23	Female	243	177/95	67	0	0	0	1	1	17.12	Unhealthy	0	0	7	3.43	150608	39.63	464	1	9.00	Canada	North America	Northern Hemisphere	0
+WQL5946	48	Female	122	93/62	62	1	1	1	1	0	6.80	Healthy	1	0	9	7.16	161237	30.89	164	5	7.00	United Kingdom	Europe	Northern Hemisphere	1
+UOI8257	61	Male	338	171/65	82	1	1	1	1	1	6.92	Healthy	1	0	5	4.44	53735	21.46	103	3	6.00	Vietnam	Asia	Northern Hemisphere	1
+IHY0559	69	Male	234	91/68	96	1	0	1	1	1	4.20	Unhealthy	1	1	6	5.04	202813	34.39	502	3	10.00	Canada	North America	Northern Hemisphere	0
+BAL8838	59	Male	294	175/77	51	1	1	1	0	1	0.02	Average	1	1	4	5.09	21365	37.93	92	7	8.00	Thailand	Asia	Northern Hemisphere	1
+YBI6619	42	Female	218	143/83	79	1	0	1	1	1	4.35	Average	0	1	3	9.47	171299	35.21	450	5	6.00	Thailand	Asia	Northern Hemisphere	0
+MSW1926	18	Male	304	165/78	95	1	1	1	0	1	12.71	Average	1	0	6	11.63	298786	20.05	722	4	7.00	United Kingdom	Europe	Northern Hemisphere	0
+VHL1612	62	Female	173	163/63	64	1	0	1	1	1	11.05	Average	0	1	7	5.14	89349	20.23	556	7	5.00	South Africa	Africa	Southern Hemisphere	1
+FKI0908	77	Female	286	124/88	64	1	0	1	0	1	1.21	Unhealthy	0	1	1	2.55	121329	37.56	184	2	8.00	Italy	Europe	Southern Hemisphere	0
+XUO9577	69	Female	359	99/82	110	1	0	1	0	1	15.85	Average	0	1	9	1.80	197644	25.32	428	7	4.00	Nigeria	Africa	Northern Hemisphere	0
+TEE0405	78	Male	273	166/86	67	1	0	1	1	1	19.90	Average	0	1	6	8.69	171126	22.61	273	4	5.00	New Zealand	Australia	Southern Hemisphere	1
+IDQ6872	82	Female	123	165/78	84	1	0	1	0	0	15.76	Unhealthy	1	1	8	10.33	137246	28.29	796	1	5.00	Vietnam	Asia	Northern Hemisphere	0
+XBZ9674	36	Male	124	145/65	43	1	1	1	0	1	4.10	Average	1	0	4	9.24	59049	35.74	174	2	4.00	Colombia	South America	Northern Hemisphere	0
+OIV0569	29	Male	139	158/76	54	1	1	1	0	1	18.50	Unhealthy	1	0	9	5.90	109419	33.89	656	4	9.00	Canada	North America	Northern Hemisphere	0
+MWZ5398	25	Male	244	132/76	103	1	0	1	1	1	8.10	Unhealthy	0	0	6	8.70	38665	27.61	134	1	10.00	Germany	Europe	Northern Hemisphere	0
+YRQ9870	84	Female	321	163/106	99	1	0	1	0	1	10.44	Unhealthy	0	1	6	5.08	253943	26.77	196	3	10.00	South Africa	Africa	Southern Hemisphere	0
+VCY3069	80	Female	263	126/84	59	1	0	1	0	1	14.80	Average	1	0	10	7.04	277985	21.93	121	4	9.00	Australia	Australia	Southern Hemisphere	0
+QDJ7359	76	Male	291	107/83	66	1	0	1	0	1	0.50	Healthy	1	1	5	5.92	91055	38.65	744	2	5.00	Vietnam	Asia	Northern Hemisphere	0
+ZJI5100	66	Female	318	137/72	43	1	1	1	0	0	11.94	Unhealthy	1	0	8	10.35	203637	19.60	733	7	4.00	France	Europe	Northern Hemisphere	1
+QYD6811	18	Male	399	111/109	63	0	1	1	0	0	7.57	Healthy	0	1	5	10.02	261988	27.35	623	1	4.00	Colombia	South America	Northern Hemisphere	0
+OYV6908	76	Male	185	114/80	68	1	1	1	0	1	17.92	Average	0	0	8	5.67	275954	19.74	522	6	8.00	India	Asia	Northern Hemisphere	0
+KTY9107	71	Male	183	160/61	86	0	0	1	0	0	15.66	Average	1	0	2	7.85	112462	26.22	376	7	8.00	South Africa	Africa	Southern Hemisphere	0
+BXW5852	22	Male	151	169/60	43	1	1	1	1	1	12.92	Average	1	0	9	2.48	167478	32.08	730	4	4.00	India	Asia	Northern Hemisphere	0
+WPW0617	56	Male	300	111/76	95	0	1	1	1	0	8.27	Healthy	0	0	7	11.31	153711	28.28	410	1	4.00	Nigeria	Africa	Northern Hemisphere	0
+TYI7747	35	Male	358	151/69	53	0	1	1	1	0	6.77	Healthy	1	1	9	10.48	105068	31.38	463	6	6.00	Brazil	South America	Southern Hemisphere	1
+WAY4212	42	Female	165	146/84	109	0	0	1	0	1	6.18	Average	0	0	8	6.64	279489	34.05	97	4	10.00	South Africa	Africa	Southern Hemisphere	0
+NVB1072	23	Female	126	139/99	61	1	0	0	0	0	4.89	Healthy	1	0	6	11.08	111047	21.29	99	0	7.00	United Kingdom	Europe	Northern Hemisphere	1
+VSV3386	90	Male	203	162/79	71	1	0	1	0	1	9.33	Unhealthy	0	0	4	11.84	283904	21.21	464	2	10.00	Spain	Europe	Southern Hemisphere	0
+YNQ3329	83	Male	275	95/74	102	1	1	1	0	0	14.30	Average	0	0	3	9.82	250467	36.55	593	2	10.00	South Africa	Africa	Southern Hemisphere	0
+TBH2833	67	Female	343	148/87	46	1	0	1	1	1	17.99	Average	1	0	8	7.60	156241	39.16	719	7	4.00	Argentina	South America	Southern Hemisphere	1
+ROF8089	67	Female	366	114/88	107	1	1	1	1	0	10.74	Healthy	1	1	4	1.70	143070	18.34	549	3	7.00	Colombia	South America	Northern Hemisphere	0
+NWW5751	86	Male	317	117/64	45	0	1	1	0	1	17.69	Unhealthy	1	0	7	6.53	245266	25.22	47	0	5.00	Italy	Europe	Southern Hemisphere	1
+CEY4537	44	Female	135	90/103	70	1	0	1	0	1	10.22	Unhealthy	1	0	4	9.15	157088	21.98	148	5	8.00	United Kingdom	Europe	Northern Hemisphere	1
+JOQ3887	26	Female	386	159/87	57	1	0	0	0	0	19.85	Average	1	0	10	9.16	260829	34.52	302	7	10.00	Brazil	South America	Southern Hemisphere	0
+YZU1958	80	Male	259	114/60	98	1	1	1	1	0	3.59	Healthy	1	0	4	4.47	203014	33.75	57	4	10.00	Argentina	South America	Southern Hemisphere	0
+EGC7479	34	Male	158	147/91	77	1	1	1	0	0	2.68	Healthy	1	1	8	9.49	257229	30.62	280	0	5.00	Australia	Australia	Southern Hemisphere	0
+YLM6170	57	Male	157	178/106	42	1	0	1	1	0	6.04	Healthy	0	0	3	11.61	190120	24.39	389	0	9.00	New Zealand	Australia	Southern Hemisphere	0
+EHN8840	83	Female	326	99/83	89	1	0	1	0	0	18.01	Healthy	0	0	9	10.73	24274	35.44	180	0	4.00	China	Asia	Northern Hemisphere	1
+NXO7861	67	Male	120	139/106	102	0	1	1	0	1	7.44	Unhealthy	0	0	9	10.57	175221	28.92	717	4	7.00	Australia	Australia	Southern Hemisphere	0
+UMW1846	19	Male	206	165/103	45	1	1	1	0	0	16.12	Healthy	0	0	2	5.39	193418	36.42	239	7	5.00	Spain	Europe	Southern Hemisphere	0
+KMG9748	26	Male	242	178/104	47	1	0	1	0	0	15.63	Healthy	0	1	3	10.08	127291	34.09	629	4	10.00	Nigeria	Africa	Northern Hemisphere	1
+GBU1842	88	Male	151	162/66	83	1	1	1	1	1	0.09	Unhealthy	0	0	8	0.27	95608	34.17	294	7	5.00	China	Asia	Northern Hemisphere	0
+FVR1432	21	Male	370	162/73	61	1	1	1	1	0	3.51	Healthy	0	1	7	11.46	21679	24.62	186	2	8.00	Argentina	South America	Southern Hemisphere	0
+EML6491	65	Male	241	161/79	66	1	1	1	1	1	15.88	Average	0	1	1	11.55	62935	35.69	700	4	10.00	United Kingdom	Europe	Northern Hemisphere	1
+GOM4176	28	Male	311	148/82	62	0	0	1	1	0	15.40	Unhealthy	0	0	8	10.36	33123	21.04	592	3	7.00	Spain	Europe	Southern Hemisphere	0
+QWU3141	50	Male	365	155/65	110	1	1	1	1	1	1.42	Average	1	0	9	8.43	199774	33.78	774	5	7.00	Canada	North America	Northern Hemisphere	1
+WCW0650	35	Male	155	171/67	41	0	0	1	1	1	18.40	Healthy	0	1	9	6.18	72569	23.39	181	4	9.00	United Kingdom	Europe	Northern Hemisphere	0
+MFC2532	74	Male	237	162/101	58	1	0	1	1	0	0.07	Healthy	1	0	5	11.19	289933	29.91	471	1	4.00	China	Asia	Northern Hemisphere	0
+VNW7565	84	Male	195	160/107	78	1	0	1	1	0	4.85	Average	1	1	7	10.17	50176	28.05	375	6	8.00	South Korea	Asia	Northern Hemisphere	1
+AGS2988	21	Male	284	158/92	110	1	0	1	0	1	5.33	Healthy	0	0	4	1.87	91485	22.33	388	7	8.00	Spain	Europe	Southern Hemisphere	1
+IUI9926	38	Female	354	139/69	74	1	1	0	0	0	16.19	Healthy	0	1	6	3.92	281484	35.17	155	0	5.00	China	Asia	Northern Hemisphere	1
+ULO8651	72	Female	257	167/74	54	1	1	1	0	1	4.10	Unhealthy	1	0	3	2.74	264511	30.25	467	7	10.00	Spain	Europe	Southern Hemisphere	0
+KEM8350	85	Female	376	101/67	87	1	0	1	0	1	14.38	Healthy	1	1	9	4.34	201076	35.27	603	6	4.00	New Zealand	Australia	Southern Hemisphere	1
+SCF7137	26	Male	399	112/109	98	0	1	1	1	1	14.48	Average	0	0	6	0.85	194384	24.89	616	6	6.00	Brazil	South America	Southern Hemisphere	0
+RGF8556	32	Male	348	165/91	104	1	0	1	1	0	17.03	Unhealthy	0	1	9	8.51	86689	19.60	331	5	7.00	South Africa	Africa	Southern Hemisphere	0
+XGC0081	60	Female	347	97/78	83	0	1	1	1	0	10.78	Healthy	1	0	1	11.81	214528	22.45	521	5	10.00	Vietnam	Asia	Northern Hemisphere	0
+KSR1075	58	Male	321	141/104	93	0	1	1	0	1	15.05	Unhealthy	1	0	4	9.83	97233	22.93	380	2	10.00	New Zealand	Australia	Southern Hemisphere	1
+JSV9471	74	Male	159	103/72	70	0	0	1	1	0	15.49	Average	0	1	7	10.93	48943	36.99	778	6	5.00	Canada	North America	Northern Hemisphere	1
+EFR0340	77	Male	321	132/103	41	1	1	1	0	1	12.40	Average	1	1	8	5.40	72920	38.21	495	1	5.00	Thailand	Asia	Northern Hemisphere	0
+NKF4625	32	Female	175	141/78	49	0	0	0	1	1	11.38	Average	0	0	7	0.46	160680	20.33	267	1	7.00	Thailand	Asia	Northern Hemisphere	1
+XCL5519	80	Male	316	146/90	51	1	0	1	1	1	13.58	Unhealthy	0	1	1	9.05	210852	24.10	698	7	5.00	Argentina	South America	Southern Hemisphere	1
+GMZ7138	33	Female	138	177/66	90	1	0	0	1	0	19.62	Average	0	0	9	8.27	149575	23.26	318	1	6.00	Australia	Australia	Southern Hemisphere	0
+IZV0688	64	Male	230	120/84	49	1	0	1	1	0	10.61	Average	0	0	5	5.50	207208	21.79	410	1	7.00	Canada	North America	Northern Hemisphere	0
+NEY6909	43	Male	356	119/72	67	1	1	1	0	1	18.11	Unhealthy	1	0	5	7.00	190006	28.68	207	7	10.00	New Zealand	Australia	Southern Hemisphere	1
+KEC9602	65	Male	124	101/87	105	0	0	1	0	1	16.56	Healthy	1	1	3	6.11	194568	20.51	780	1	6.00	Canada	North America	Northern Hemisphere	0
+PYL5477	50	Male	308	140/80	105	1	0	1	1	0	2.65	Healthy	1	1	10	10.59	246809	25.42	579	5	6.00	Germany	Europe	Northern Hemisphere	0
+VKY0282	72	Male	252	157/101	44	1	1	1	1	1	17.71	Average	1	0	7	0.87	240018	27.22	51	5	6.00	United States	North America	Northern Hemisphere	0
+AOF0204	71	Female	213	91/61	110	0	0	1	1	0	3.21	Average	0	1	3	10.69	174378	34.48	84	4	7.00	South Africa	Africa	Southern Hemisphere	0
+THX6401	61	Male	261	121/73	103	0	1	1	1	1	7.66	Unhealthy	1	0	7	11.85	147936	32.91	675	3	4.00	South Africa	Africa	Southern Hemisphere	0
+STU6861	38	Female	190	172/80	98	0	0	0	0	1	8.63	Healthy	0	0	1	7.68	144954	18.63	735	1	10.00	Argentina	South America	Southern Hemisphere	0
+VLD1162	75	Male	392	131/67	71	1	1	1	0	1	16.50	Average	0	0	6	1.27	50029	30.68	425	4	10.00	Brazil	South America	Southern Hemisphere	1
+PQL7102	39	Male	298	125/64	104	1	0	1	0	1	8.53	Average	1	1	1	0.96	298655	18.76	310	0	8.00	New Zealand	Australia	Southern Hemisphere	0
+MYN6230	81	Male	170	100/104	81	1	1	1	1	1	8.97	Healthy	0	0	9	6.45	286374	18.51	126	7	9.00	Vietnam	Asia	Northern Hemisphere	0
+UNR0089	29	Female	373	101/106	48	0	1	0	0	1	9.45	Healthy	0	1	1	2.33	108812	36.68	56	1	10.00	Australia	Australia	Southern Hemisphere	1
+YLI3019	51	Male	244	140/89	43	0	1	1	1	1	15.85	Healthy	0	1	2	3.45	20375	32.58	394	0	7.00	India	Asia	Northern Hemisphere	0
+UTO3905	59	Male	269	108/104	84	1	0	1	0	0	18.86	Healthy	1	1	2	5.37	63242	35.09	472	1	7.00	China	Asia	Northern Hemisphere	0
+WLY3711	76	Male	377	98/96	100	0	0	1	0	1	10.18	Average	1	1	2	2.38	188946	37.06	669	5	8.00	South Africa	Africa	Southern Hemisphere	1
+BCR8001	21	Female	202	133/64	43	1	0	0	0	0	2.84	Healthy	0	1	10	3.62	122051	34.70	688	3	8.00	South Korea	Asia	Northern Hemisphere	1
+AUW6865	75	Male	203	116/82	108	1	0	1	1	0	11.17	Healthy	0	0	8	10.41	211915	23.93	655	0	10.00	Brazil	South America	Southern Hemisphere	0
+DTO8732	22	Male	370	168/69	110	1	1	1	0	1	9.04	Unhealthy	1	0	6	3.63	200491	24.96	39	7	10.00	China	Asia	Northern Hemisphere	1
+VCC8420	76	Male	296	177/87	79	1	1	1	1	1	15.21	Healthy	0	1	9	7.79	239402	27.22	333	5	8.00	Japan	Asia	Northern Hemisphere	0
+BTO2579	62	Male	202	153/81	65	1	1	1	1	0	10.94	Healthy	1	1	1	6.11	167376	38.94	501	2	4.00	Brazil	South America	Southern Hemisphere	0
+FKE2991	56	Male	153	103/96	55	1	0	1	0	0	12.93	Healthy	0	1	1	4.57	115503	24.68	232	7	8.00	Thailand	Asia	Northern Hemisphere	0
+TNT2035	29	Female	394	114/62	95	0	1	0	0	0	3.48	Unhealthy	1	0	7	10.17	292302	26.02	479	7	4.00	New Zealand	Australia	Southern Hemisphere	1
+YAV3073	67	Female	359	95/64	63	1	0	1	1	0	10.14	Unhealthy	0	0	2	11.77	76582	36.06	211	1	8.00	Colombia	South America	Northern Hemisphere	1
+WYS5546	45	Male	129	99/60	100	1	1	1	0	1	2.85	Healthy	0	1	5	5.11	220491	23.74	197	1	6.00	United States	North America	Northern Hemisphere	0
+FYQ1629	54	Female	212	169/67	66	0	0	1	1	0	19.30	Average	0	0	7	4.40	51539	28.79	540	1	4.00	France	Europe	Northern Hemisphere	0
+EPM2146	23	Male	267	92/107	64	0	1	1	1	0	14.23	Average	0	0	3	1.06	276765	38.32	433	5	8.00	France	Europe	Northern Hemisphere	0
+RVJ3813	79	Male	397	175/67	64	1	1	1	0	1	8.87	Average	1	1	7	3.10	110048	34.89	179	1	5.00	Brazil	South America	Southern Hemisphere	0
+XBY2113	28	Male	352	131/67	43	1	0	1	0	0	12.69	Unhealthy	0	0	3	6.36	226181	32.51	223	3	9.00	Colombia	South America	Northern Hemisphere	0
+NBU0726	25	Male	291	123/106	88	1	0	1	1	0	0.98	Average	0	1	7	6.24	259397	27.70	551	7	7.00	Thailand	Asia	Northern Hemisphere	1
+AVV5863	83	Female	368	171/75	95	1	1	1	1	1	7.28	Average	0	1	2	9.05	296988	26.12	490	5	10.00	Colombia	South America	Northern Hemisphere	0
+LWB8244	41	Female	129	92/108	81	1	0	1	0	1	11.19	Average	1	1	4	2.42	271326	31.77	204	0	10.00	South Korea	Asia	Northern Hemisphere	0
+DBA0284	89	Male	229	162/75	57	0	1	1	1	1	18.53	Average	1	1	9	8.56	264172	33.74	795	2	5.00	South Korea	Asia	Northern Hemisphere	0
+YGC6271	85	Male	310	163/96	66	1	0	1	0	1	16.98	Healthy	0	1	5	9.87	223172	32.04	267	1	8.00	Canada	North America	Northern Hemisphere	0
+DWI7052	34	Male	360	158/60	50	1	1	1	1	1	6.08	Average	0	0	4	5.25	202637	32.64	644	7	4.00	United States	North America	Northern Hemisphere	0
+MMW1532	80	Male	341	118/72	84	1	0	1	1	1	17.66	Unhealthy	1	1	1	8.27	235115	21.85	525	6	9.00	India	Asia	Northern Hemisphere	0
+KQB2627	27	Male	253	113/108	65	1	0	1	0	0	14.03	Healthy	0	0	10	6.78	175078	34.64	88	6	8.00	Italy	Europe	Southern Hemisphere	0
+WMO3684	26	Male	183	177/103	93	0	0	1	0	1	15.97	Healthy	0	1	6	10.18	249377	22.01	255	1	10.00	India	Asia	Northern Hemisphere	0
+BCC7629	36	Female	319	124/81	45	1	0	0	0	0	3.92	Healthy	1	0	1	10.25	138838	28.04	244	7	4.00	India	Asia	Northern Hemisphere	0
+GAZ0067	20	Male	259	104/108	108	0	0	1	1	1	17.48	Average	1	1	3	10.81	175627	27.36	546	2	6.00	Canada	North America	Northern Hemisphere	0
+CJA3176	87	Male	328	147/97	77	0	1	1	1	0	4.48	Average	1	0	8	2.60	201510	21.39	486	1	4.00	Japan	Asia	Northern Hemisphere	0
+HGA9732	70	Female	276	160/69	67	1	0	1	0	1	14.01	Average	1	0	9	4.40	202088	29.10	320	5	9.00	United Kingdom	Europe	Northern Hemisphere	0
+GPC7174	49	Male	384	175/72	65	0	0	1	1	1	4.63	Unhealthy	0	0	2	0.69	140406	37.55	319	5	4.00	Germany	Europe	Northern Hemisphere	0
+CQG3050	21	Male	253	159/82	40	1	0	1	1	0	5.27	Healthy	0	1	3	10.59	236723	21.25	58	0	6.00	Vietnam	Asia	Northern Hemisphere	0
+VAY6611	27	Female	296	163/98	78	1	1	0	1	1	7.10	Healthy	0	1	6	11.64	207906	29.33	591	0	4.00	Italy	Europe	Southern Hemisphere	0
+FEQ1964	76	Male	201	108/104	70	1	1	1	1	0	4.52	Healthy	1	0	5	7.96	194461	21.36	165	2	4.00	United States	North America	Northern Hemisphere	0
+KTW5157	72	Male	145	179/81	47	1	1	1	0	1	4.65	Unhealthy	0	0	3	10.52	176507	36.34	732	3	8.00	India	Asia	Northern Hemisphere	0
+PDA0257	77	Female	303	152/75	109	1	1	1	0	1	2.28	Average	1	1	1	1.72	123697	28.04	195	1	4.00	South Africa	Africa	Southern Hemisphere	1
+EML8897	31	Male	314	138/82	102	1	0	1	0	1	2.18	Average	0	0	1	2.97	102674	36.70	478	3	5.00	South Korea	Asia	Northern Hemisphere	0
+UCE0281	76	Male	180	101/64	68	1	1	1	0	0	19.76	Unhealthy	0	1	8	9.33	75901	32.28	461	2	5.00	India	Asia	Northern Hemisphere	0
+NWZ9873	69	Male	190	115/100	85	1	0	1	1	1	9.20	Average	1	1	7	3.96	231394	18.00	458	6	9.00	Canada	North America	Northern Hemisphere	0
+LHF7235	61	Male	250	108/103	97	1	1	1	1	1	3.68	Healthy	1	1	9	4.37	137974	21.09	631	4	6.00	Nigeria	Africa	Northern Hemisphere	0
+PSU2093	88	Female	209	140/88	76	1	0	1	0	1	1.86	Unhealthy	0	0	6	7.14	105028	24.79	717	2	8.00	Colombia	South America	Northern Hemisphere	1
+GAG2896	26	Female	194	164/96	110	1	0	0	0	1	4.29	Average	1	0	7	9.39	43076	36.03	741	7	5.00	Japan	Asia	Northern Hemisphere	0
+YVI8512	53	Female	294	175/104	45	1	0	1	0	1	7.81	Average	1	0	2	10.75	284801	29.07	301	3	6.00	Argentina	South America	Southern Hemisphere	1
+YBH3172	70	Male	265	111/108	60	0	1	1	0	1	17.86	Healthy	1	0	3	6.26	291894	19.54	574	4	8.00	New Zealand	Australia	Southern Hemisphere	1
+VHJ9494	45	Female	148	160/98	93	0	0	1	1	1	15.51	Healthy	1	1	8	3.40	176112	37.85	50	5	8.00	Spain	Europe	Southern Hemisphere	0
+OBX7266	89	Female	166	152/107	46	1	0	1	0	1	18.52	Healthy	0	0	9	1.19	169933	33.15	315	1	6.00	Thailand	Asia	Northern Hemisphere	0
+WXS2566	41	Male	204	142/63	54	1	1	1	1	0	8.78	Unhealthy	0	1	9	1.98	118069	31.35	314	3	4.00	Italy	Europe	Southern Hemisphere	0
+CSF6016	18	Male	159	158/67	58	1	1	1	1	1	11.44	Average	1	0	2	9.22	278606	22.57	194	7	4.00	Colombia	South America	Northern Hemisphere	1
+XYT8290	67	Female	200	96/96	91	1	1	1	1	0	18.09	Average	1	1	7	3.27	241188	28.95	292	1	7.00	Colombia	South America	Northern Hemisphere	1
+ZTA1405	85	Female	127	122/89	78	1	1	1	0	1	18.53	Healthy	0	0	10	2.62	25496	27.53	555	3	10.00	South Africa	Africa	Southern Hemisphere	0
+VYB5146	23	Female	201	145/63	79	1	1	0	1	1	14.78	Unhealthy	0	1	8	1.59	99373	20.79	286	6	7.00	Germany	Europe	Northern Hemisphere	0
+ZML0212	61	Female	344	143/108	79	1	1	1	0	0	17.07	Healthy	0	1	4	11.00	107666	36.98	199	4	10.00	United Kingdom	Europe	Northern Hemisphere	1
+JQO6134	76	Female	290	131/91	66	1	0	1	0	1	16.54	Healthy	1	1	9	11.09	224877	23.64	160	4	6.00	Thailand	Asia	Northern Hemisphere	0
+TOE8211	52	Male	205	132/103	76	0	1	1	1	1	8.80	Average	1	1	2	7.89	238370	30.94	149	3	10.00	India	Asia	Northern Hemisphere	0
+CVD9526	46	Male	295	140/82	91	1	1	1	0	1	4.10	Healthy	0	1	4	6.32	246774	29.63	527	4	7.00	Colombia	South America	Northern Hemisphere	0
+BBF7318	75	Male	161	134/100	102	0	0	1	1	0	5.02	Average	0	0	3	2.44	182515	22.09	115	1	10.00	France	Europe	Northern Hemisphere	0
+JOE7050	86	Male	280	129/94	105	1	1	1	1	1	4.98	Average	1	1	6	9.26	201645	24.33	406	0	10.00	Australia	Australia	Southern Hemisphere	1
+WKQ4013	34	Female	269	138/79	65	0	0	0	1	0	18.90	Average	0	1	4	5.94	80379	20.38	161	4	4.00	Spain	Europe	Southern Hemisphere	0
+KQK7643	34	Male	185	167/108	47	1	0	1	1	0	9.51	Unhealthy	1	0	8	5.55	38814	24.87	125	7	9.00	France	Europe	Northern Hemisphere	0
+KTW5072	86	Male	295	117/89	52	0	1	1	1	1	6.32	Healthy	0	0	5	3.60	168404	36.59	200	0	7.00	Thailand	Asia	Northern Hemisphere	1
+TFX1105	83	Male	243	93/108	100	1	0	1	0	1	12.19	Average	1	0	10	5.01	47175	31.38	277	4	6.00	Germany	Europe	Northern Hemisphere	0
+WMA0365	30	Male	140	131/101	58	0	0	1	1	1	8.92	Healthy	0	0	10	3.08	28797	22.13	308	3	9.00	Canada	North America	Northern Hemisphere	0
+BNQ1608	80	Male	132	142/107	51	1	0	1	0	0	12.79	Healthy	0	1	6	6.71	103777	35.01	784	4	6.00	Colombia	South America	Northern Hemisphere	0
+WFR1570	41	Male	335	112/75	43	1	1	1	0	0	6.98	Unhealthy	1	1	9	11.84	126596	35.75	51	6	6.00	Brazil	South America	Southern Hemisphere	0
+EMG4617	69	Male	132	128/92	60	0	0	1	1	1	10.28	Unhealthy	1	0	9	10.22	161549	26.41	69	0	7.00	United Kingdom	Europe	Northern Hemisphere	0
+OQD2740	41	Male	374	117/98	83	0	0	1	1	0	18.55	Healthy	1	1	7	9.98	273899	20.96	286	2	6.00	India	Asia	Northern Hemisphere	1
+RPJ7752	18	Male	356	156/103	54	1	1	1	1	1	3.50	Unhealthy	0	0	6	9.12	56227	37.41	427	4	4.00	South Korea	Asia	Northern Hemisphere	0
+AHF8900	79	Male	301	96/66	101	1	1	1	0	1	1.09	Healthy	0	0	2	7.55	132271	38.03	779	6	6.00	South Africa	Africa	Southern Hemisphere	0
+OSV3898	55	Female	126	104/102	59	0	1	1	1	0	19.71	Healthy	0	0	5	11.18	297321	39.29	236	3	8.00	Brazil	South America	Southern Hemisphere	0
+BZA4960	19	Male	193	145/96	89	0	0	1	0	0	14.55	Unhealthy	0	0	7	7.54	211414	24.58	202	4	10.00	New Zealand	Australia	Southern Hemisphere	0
+PNK2263	75	Female	319	94/62	85	1	1	1	0	1	7.74	Average	1	1	6	2.61	232143	36.77	77	3	9.00	France	Europe	Northern Hemisphere	1
+RSF4019	31	Female	277	176/97	63	1	1	0	1	0	19.75	Healthy	0	1	1	9.17	78445	28.44	500	2	6.00	China	Asia	Northern Hemisphere	0
+ZOY4018	50	Male	198	112/71	57	1	0	1	1	1	12.03	Healthy	0	1	8	1.96	95865	23.36	601	2	8.00	Nigeria	Africa	Northern Hemisphere	0
+OEZ7393	70	Male	213	153/83	50	1	0	1	0	0	7.78	Unhealthy	1	0	4	2.80	56378	30.84	255	4	4.00	United Kingdom	Europe	Northern Hemisphere	0
+DVE3895	33	Female	267	94/86	100	0	1	0	0	0	0.72	Average	0	0	8	7.86	166848	23.68	269	7	10.00	Nigeria	Africa	Northern Hemisphere	1
+AFU8750	49	Female	335	136/83	95	1	1	1	1	1	7.24	Unhealthy	0	0	7	6.51	168024	33.11	425	3	4.00	Colombia	South America	Northern Hemisphere	0
+UCU0940	26	Female	213	125/78	44	1	0	0	0	0	8.92	Unhealthy	1	1	1	11.66	110616	23.16	191	2	5.00	New Zealand	Australia	Southern Hemisphere	0
+AIY9747	65	Female	308	105/96	105	1	1	1	1	0	18.76	Unhealthy	0	0	4	8.67	43556	21.90	479	7	8.00	China	Asia	Northern Hemisphere	1
+CXO1479	21	Male	196	168/105	48	0	1	1	0	1	11.58	Unhealthy	1	1	5	8.11	184318	26.16	79	5	6.00	Thailand	Asia	Northern Hemisphere	0
+LKE3475	20	Male	206	142/93	80	0	0	1	0	1	9.82	Average	1	0	8	4.59	269569	36.71	231	0	5.00	Nigeria	Africa	Northern Hemisphere	0
+TFV1722	52	Female	322	157/62	66	1	0	1	1	1	8.76	Unhealthy	0	0	1	0.50	285490	25.26	168	7	8.00	South Africa	Africa	Southern Hemisphere	1
+VHY7394	25	Male	291	141/102	75	1	0	1	1	1	19.39	Average	0	0	1	7.38	95625	24.36	709	4	6.00	China	Asia	Northern Hemisphere	1
+KTF7352	51	Female	179	161/63	67	1	0	1	1	1	2.77	Average	1	1	4	3.43	23985	32.10	398	7	10.00	Argentina	South America	Southern Hemisphere	1
+QXI7953	68	Male	380	176/77	72	1	1	1	1	1	0.39	Average	0	1	7	11.79	152688	29.24	575	2	4.00	Canada	North America	Northern Hemisphere	0
+NBT8626	45	Male	128	162/91	40	1	1	1	0	1	1.86	Average	1	1	4	3.75	132314	27.39	319	0	4.00	Thailand	Asia	Northern Hemisphere	1
+ZOF8895	82	Male	266	167/103	102	0	1	1	0	1	3.37	Average	1	1	4	10.58	233769	24.22	606	7	8.00	United States	North America	Northern Hemisphere	0
+AWU6228	69	Female	346	101/84	45	1	1	1	0	0	1.74	Healthy	1	0	4	3.91	66662	37.68	355	4	5.00	Germany	Europe	Northern Hemisphere	0
+ING6106	69	Female	199	116/80	85	1	1	1	0	0	0.05	Average	1	0	10	7.23	285955	25.51	55	1	10.00	New Zealand	Australia	Southern Hemisphere	0
+CIV0067	22	Male	399	141/85	99	1	0	1	0	0	17.49	Average	1	0	8	9.66	26329	35.76	636	0	5.00	Nigeria	Africa	Northern Hemisphere	0
+ZQC1238	19	Female	143	151/60	42	0	0	0	1	1	5.09	Average	0	1	7	3.76	287151	37.18	64	4	5.00	Vietnam	Asia	Northern Hemisphere	0
+RQS7383	48	Male	312	121/95	95	1	0	1	1	1	9.02	Average	0	0	4	5.79	250386	23.19	780	4	9.00	China	Asia	Northern Hemisphere	0
+FJG4009	66	Male	288	90/72	99	1	0	1	0	1	17.35	Healthy	1	1	8	0.40	201188	32.00	575	7	10.00	Australia	Australia	Southern Hemisphere	1
+SHO0718	27	Male	395	99/94	81	1	1	1	0	1	8.06	Unhealthy	1	0	10	11.86	91890	26.95	515	0	6.00	Argentina	South America	Southern Hemisphere	0
+GMP5640	59	Male	149	143/67	104	1	1	1	1	1	5.35	Average	0	1	8	7.03	220645	24.20	97	7	6.00	Japan	Asia	Northern Hemisphere	0
+DFW2933	56	Female	273	171/70	90	1	1	1	0	0	8.90	Average	1	1	2	1.36	55412	30.51	251	2	4.00	Colombia	South America	Northern Hemisphere	0
+XFP2219	81	Female	163	178/105	74	1	0	1	1	0	9.51	Unhealthy	0	0	1	8.73	20858	39.32	245	5	10.00	New Zealand	Australia	Southern Hemisphere	0
+KFX0233	43	Female	247	139/100	74	1	1	1	1	1	15.68	Average	1	1	10	1.99	108436	33.19	228	6	5.00	New Zealand	Australia	Southern Hemisphere	1
+SXI5502	25	Male	337	170/89	104	1	0	1	0	1	16.02	Average	0	0	4	2.26	168088	18.52	719	1	7.00	United Kingdom	Europe	Northern Hemisphere	1
