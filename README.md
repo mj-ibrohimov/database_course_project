@@ -6,13 +6,17 @@ A comprehensive database project focused on heart attack prediction analysis, fe
 
 This project implements a relational database system for heart attack prediction analysis. It includes database schema design, data migration scripts, analytical queries, and visualization of results. The project demonstrates practical SQL skills and database management concepts.
 
+## Database Schema
+
+![Heart Attack Database Schema](database_course_project_Ibrohimov_Muhammadjon_part_1_1/heart_attack.png)
+
 ## Repository Structure
 
 - **Part 1: Database Foundation**
   - **Part 1.1**: Conceptual model and database design
     - Model description and heart attack prediction schema visualization
   - **Part 1.2**: Schema implementation and data migration
-    - SQL scripts for database creation and initial data loading
+    - SQL scripts for database creation and iniadtial data loading
   - **Part 1.3**: Database functions and views
     - Custom SQL functions and views for data analysis
 
